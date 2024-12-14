@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "WIDGET_TotalTimeSaved.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
