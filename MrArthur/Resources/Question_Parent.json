@@ -1,0 +1,345 @@
+[
+  {
+    "id": 0,
+    "question": "What is your main goal for your child?",
+    "answer": [
+      {
+        "answer": "Less social networking",
+        "isSelected": false
+      },
+      {
+        "answer": "More knowledge and open-mindedness",
+        "isSelected": false
+      },
+      {
+        "answer": "Less screen time",
+        "isSelected": false
+      },
+      {
+        "answer": "More and better-quality content",
+        "isSelected": false
+      }
+    ],
+    "backendAnswer": [
+      "LESS_SOCIAL_NETWORK",
+      "MORE_KNOWLEDGE",
+      "LESS_SCREEN_TIME",
+      "BETTER_QUALITY"
+    ],
+    "selectedAnswer": ""
+  },
+  {
+    "id": 1,
+    "question": "Who are  you to your child?",
+    "answer": [
+      {
+        "answer": "Mother",
+        "isSelected": false
+      },
+      {
+        "answer": "Father",
+        "isSelected": false
+      },
+      {
+        "answer": "Grandmother",
+        "isSelected": false
+      },
+      {
+        "answer": "Grandfather",
+        "isSelected": false
+      },
+      {
+        "answer": "Other",
+        "isSelected": false
+      }
+    ],
+    "backendAnswer": [
+      "MOTHER",
+      "FATHER",
+      "GRANDMOTHER",
+      "GRANDFATHER",
+      "OTHER"
+    ],
+    "selectedAnswer": ""
+  },
+  {
+    "id": 2,
+    "question": "Do you often argue over screen time?",
+    "answer": [
+      {
+        "answer": "Yes, everyday",
+        "isSelected": false
+      },
+      {
+        "answer": "Yes, atleast once a week",
+        "isSelected": false
+      },
+      {
+        "answer": "No, rarely",
+        "isSelected": false
+      },
+      {
+        "answer": "Not at all",
+        "isSelected": false
+      }
+    ],
+    "backendAnswer": [
+      "EVERY_DAY",
+      "EVERY_WEEK",
+      "RARELY",
+      "NEVER"
+    ],
+    "selectedAnswer": ""
+  },
+  {
+    "id": 3,
+    "question": "Do you use parental control Apps?",
+    "answer": [
+      {
+        "answer": "Yes",
+        "isSelected": false
+      },
+      {
+        "answer": "No",
+        "isSelected": false
+      }
+    ],
+    "backendAnswer": [
+      "YES",
+      "NO"
+    ],
+    "selectedAnswer": ""
+  },
+  {
+    "id": 4,
+    "question": "If yes, are you satisfied with these Apps?",
+    "answer": [
+      {
+        "answer": "Yes",
+        "isSelected": false
+      },
+      {
+        "answer": "No",
+        "isSelected": false
+      }
+    ],
+    "backendAnswer": [
+      "YES",
+      "NO"
+    ],
+    "selectedAnswer": ""
+  },
+  {
+    "id": 5,
+    "question": "How do you see your child's relationship with screens?",
+    "answer": [
+      {
+        "answer": "Very problematic",
+        "isSelected": false
+      },
+      {
+        "answer": "Problematic",
+        "isSelected": false
+      },
+      {
+        "answer": "Not very problematic",
+        "isSelected": false
+      },
+      {
+        "answer": "Not at all problematic",
+        "isSelected": false
+      }
+    ],
+    "backendAnswer": [
+      "NOT_AT_ALL",
+      "NOT_REALLY",
+      "A_LITTLE",
+      "A_LOT"
+    ],
+    "selectedAnswer": ""
+  },
+  {
+    "id": 6,
+    "question": "Do you feel guilty?",
+    "answer": [
+      {
+        "answer": "No, not at all",
+        "isSelected": false
+      },
+      {
+        "answer": "No, not really",
+        "isSelected": false
+      },
+      {
+        "answer": "Yes, a little",
+        "isSelected": false
+      },
+      {
+        "answer": "Yes, very much so",
+        "isSelected": false
+      }
+    ],
+    "backendAnswer": [
+      "NOT_AT_ALL",
+      "NOT_REALLY",
+      "A_LITTLE",
+      "A_LOT"
+    ],
+    "selectedAnswer": ""
+  },
+  {
+    "id": 7,
+    "question": "Is your child aware that his screen time is an issue?",
+    "answer": [
+      {
+        "answer": "No, not at all",
+        "isSelected": false
+      },
+      {
+        "answer": "No, not really",
+        "isSelected": false
+      },
+      {
+        "answer": "Yes, few",
+        "isSelected": false
+      },
+      {
+        "answer": "Yes, very much so",
+        "isSelected": false
+      }
+    ],
+    "backendAnswer": [
+      "NOT_AT_ALL",
+      "NOT_REALLY",
+      "A_LITTLE",
+      "A_LOT"
+    ],
+    "selectedAnswer": ""
+  },
+  {
+    "id": 8,
+    "question": "Which device causes the most problems?",
+    "answer": [
+      {
+        "answer": "Smartphone",
+        "isSelected": false
+      },
+      {
+        "answer": "Tablet",
+        "isSelected": false
+      },
+      {
+        "answer": "Computer",
+        "isSelected": false
+      },
+      {
+        "answer": "TV",
+        "isSelected": false
+      },
+      {
+        "answer": "Video game console",
+        "isSelected": false
+      }
+    ],
+    "backendAnswer": [
+        "PHONE",
+        "TABLET",
+        "COMPUTER",
+        "TV",
+        "VIDEO_GAME_CONSOLE"
+    ],
+    "selectedAnswer": ""
+  },
+  {
+    "id": 9,
+    "question": "Is there another problematic device?",
+    "answer": [
+      {
+        "answer": "No",
+        "isSelected": false
+      },
+      {
+        "answer": "Smartphone",
+        "isSelected": false
+      },
+      {
+        "answer": "Tablet",
+        "isSelected": false
+      },
+      {
+        "answer": "Computer",
+        "isSelected": false
+      },
+      {
+        "answer": "TV",
+        "isSelected": false
+      },
+      {
+        "answer": "Video game console",
+        "isSelected": false
+      }
+    ],
+    "backendAnswer": [
+        "NO",
+        "PHONE",
+        "TABLET",
+        "COMPUTER",
+        "TV",
+        "VIDEO_GAME_CONSOLE"
+    ],
+    "selectedAnswer": ""
+  },
+  {
+    "id": 10,
+    "question": "How would you rate your screen time and particularly on your telephone?",
+    "answer": [
+      {
+        "answer": "Perfectly healthy",
+        "isSelected": false
+      },
+      {
+        "answer": "Quite healthy",
+        "isSelected": false
+      },
+      {
+        "answer": "A bit excessive",
+        "isSelected": false
+      },
+      {
+        "answer": "Too much",
+        "isSelected": false
+      },
+      {
+        "answer": "I’m not sure",
+        "isSelected": false
+      }
+    ],
+    "backendAnswer": [
+        "PERFECTLY_HEALTHY",
+        "HEALTHY",
+        "A_BIT_EXCESSIVE",
+        "VERY_EXCESSIVE",
+        "DO_NOT_KNOW"
+    ],
+    "selectedAnswer": ""
+  },{
+      "id": 11,
+      "question": "Which telephone are you currently using?",
+      "answer": [
+        {
+          "answer": "Mine as a parent",
+          "isSelected": false
+        },
+        {
+          "answer": "My child’s",
+          "isSelected": false
+        }
+      ],
+      "backendAnswer": [
+          "Mine as a parent",
+          "My child’s"
+      ],
+      "selectedAnswer": ""
+    }
+  
+]

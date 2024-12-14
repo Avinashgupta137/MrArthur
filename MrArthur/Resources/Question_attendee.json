@@ -1,0 +1,202 @@
+[
+  {
+    "id": 12,
+    "question": "Do you feel that you spend too much time on screens?",
+    "answer": [
+      {
+        "answer": "No, not at all",
+        "isSelected": false
+      },
+      {
+        "answer": "No, not really",
+        "isSelected": false
+      },
+      {
+        "answer": "Yes, a little",
+        "isSelected": false
+      },
+      {
+        "answer": "Yes, too much",
+        "isSelected": false
+      }
+    ],
+    "backendAnswer": [
+      "NOT_AT_ALL",
+      "NOT_REALLY",
+      "YES_A_BIT",
+      "YES_A_LOT"
+    ],
+    "selectedAnswer": ""
+  },
+  {
+    "id": 13,
+    "question": "Which device do you think causes the most problems?",
+    "answer": [
+      {
+        "answer": "Smartphone",
+        "isSelected": false
+      },
+      {
+        "answer": "Tablet",
+        "isSelected": false
+      },
+      {
+        "answer": "Computer",
+        "isSelected": false
+      },
+      {
+        "answer": "TV",
+        "isSelected": false
+      },
+      {
+        "answer": "Video game console",
+        "isSelected": false
+      }
+    ],
+    "backendAnswer": [
+      "PHONE",
+      "TABLET",
+      "COMPUTER",
+      "TV",
+      "VIDEO_GAME_CONSOLE"
+    ],
+    "selectedAnswer": ""
+  },
+  {
+    "id": 14,
+    "question": "Is there another problematic device?",
+    "answer": [
+      {
+        "answer": "No",
+        "isSelected": false
+      },
+      {
+        "answer": "Smartphone",
+        "isSelected": false
+      },
+      {
+        "answer": "Tablet",
+        "isSelected": false
+      },
+      {
+        "answer": "TV",
+        "isSelected": false
+      },
+      {
+        "answer": "Video game console",
+        "isSelected": false
+      }
+    ],
+    "backendAnswer": [
+        "PHONE",
+        "TABLET",
+        "COMPUTER",
+        "TV",
+        "VIDEO_GAME_CONSOLE"
+    ],
+    "selectedAnswer": ""
+  },
+  {
+    "id": 15,
+    "question": "Do you often argue with your parents over screen time?",
+    "answer": [
+      {
+        "answer": "Yes",
+        "isSelected": false
+      },
+      {
+        "answer": "No",
+        "isSelected": false
+      }
+    ],
+    "backendAnswer": [
+      "YES",
+      "NO"
+    ],
+    "selectedAnswer": ""
+  },
+  {
+    "id": 16,
+    "question": "Are you prepared for your parents to limit your screen time without asking you?",
+    "answer": [
+      {
+        "answer": "Yes",
+        "isSelected": false
+      },
+      {
+        "answer": "No",
+        "isSelected": false
+      }
+    ],
+    "backendAnswer": [
+      "YES",
+      "NO"
+    ],
+    "selectedAnswer": ""
+  },
+  {
+    "id": 17,
+    "question": "Would you prefer to be asked so that you can set your own screen time?",
+    "answer": [
+      {
+        "answer": "Yes",
+        "isSelected": false
+      },
+      {
+        "answer": "No",
+        "isSelected": false
+      }
+    ],
+    "backendAnswer": [
+      "YES",
+      "NO"
+    ],
+    "selectedAnswer": ""
+  },
+  {
+    "id": 18,
+    "question": "Do you think it’s possible to learn while having fun?",
+    "answer": [
+      {
+        "answer": "Yes",
+        "isSelected": false
+      },
+      {
+        "answer": "No",
+        "isSelected": false
+      }
+    ],
+    "backendAnswer": [
+      "YES",
+      "NO"
+    ],
+    "selectedAnswer": ""
+  },
+  {
+    "id": 19,
+    "question": "Would you be willing to spend some time on fun educational Apps to gain entertainment time and more freedom?",
+    "answer": [
+      {
+        "answer": "Yes, definitely",
+        "isSelected": false
+      },
+      {
+        "answer": "Yes, why not?",
+        "isSelected": false
+      },
+      {
+        "answer": "No, not at all",
+        "isSelected": false
+      }
+    ],
+    "backendAnswer": [
+        "YES_OF_COURSE",
+        "YES_WHY_NOT",
+      "NOT_AT_ALL"
+      
+    ],
+    "selectedAnswer": ""
+  }
+ 
+  
+]

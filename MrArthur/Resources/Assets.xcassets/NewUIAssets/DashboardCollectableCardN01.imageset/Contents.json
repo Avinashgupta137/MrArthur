@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "MrA008_Market APP_illustr_ALL_FR GB_03_DashboardCollectableCardN01_notext_notext.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "MrA008_Market APP_illustr_ALL_FR GB_03_DashboardCollectableCardN01_notext_notext@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "MrA008_Market APP_illustr_ALL_FR GB_03_DashboardCollectableCardN01_notext_notext@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
