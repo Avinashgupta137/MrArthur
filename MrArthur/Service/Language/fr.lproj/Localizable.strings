@@ -1,0 +1,932 @@
+/* 
+ Localizable.strings
+ MrArthur
+ 
+ Created by IPS-169 on 07/07/22.
+ 
+ */
+//OBS - SPLASH  - 1
+"Less screen time & better content" = "Moins d'écran. \nDu meilleur contenu.";
+
+//OBS - 1ST SCREEN – 1
+"Hello !" = "Bonjour !";
+"mr.arthur " = "mr.arthur ";
+"helps your children cut their screen time" = "aide vos enfants à réduire leur temps d'écran pour devenir plus conscients et responsables de leur usage.";
+"Teach your children to be more self-aware and responsible for their actions." = "";
+"START" = "COMMENCER";
+"Already have an account?" = "Vous avez déjà un compte ?";
+"SIGN IN" = "S'IDENTIFIER";
+
+//OBS - ADD UP - PRIVACY – 1
+"Your family privacy matters" = "Nous respectons la vie privée de votre famille";
+"• Your personal data is only used to give you personalized coaching experience." = "• Vos données personnelles ne sont utilisées que pour vous accompagner de façon individualisée.";
+"• We do not share your personal data to third parties." = "• Nous ne partageons pas vos données personnelles à de tierces parties.";
+"• Your data stays between you and us." = "• Vos données restent entre vous et nous.";
+"I agree to " = "J'accepte ";
+"the terms of use " = "les conditions d'utilisation";
+"privacy policy." = "les politiques de confidentialité.";
+"Please accept terms & condition" = "Merci d'accepter les termes et conditions d'utilisation.";
+"Privacy" = "Vie privée";
+"APPLY" = "VALIDER";
+
+//OBS - MANIFESTO – INTRO
+"Well done," = "Bien joué,";
+"you've done the hard part." = "tu as fait le plus dur.";
+//Last Change Here
+
+
+//OBS - MANIFESTO – 01
+"By not turning a blind eye to " = "En ne fermant pas les yeux sur ";
+"excessive screen time!" = "la consommation d'écran excessive de nos enfants !";
+
+//OBS - MANIFESTO – 02
+"mr.arthur" = "mr.arthur";
+"helps your child maintain a healthy level of screen time. No more zombie children and especially" = "aide votre enfant à adopter un temps d'écran sain. Fini les enfants zombies";
+" no \nmore arguments!"= " et \nles disputes !";
+
+//OBS - MANIFESTO – 03
+"Healthy screen time " = "Un temps d'écran sain, ";
+"means less screen time" = "c'est moins de temps cumulé";
+" and " = " et ";
+"better content" = "du meilleur contenu ";
+"for your child." = "pour votre enfant.";
+
+//OBS - QT – intro
+"To help you, " = "Pour faire connaissance, ";
+" needs to ask you a few questions." = " doit vous poser quelques questions.";
+"Please answer the questions with the child facing the biggest challenges." = "Merci d'y répondre pour votre enfant, afin de déceler ses plus grands défis.";
+"most problematic " = "le plus problématique ";
+"in mind." = "à l'esprit.";
+"ESTIMATED TIME" = "TEMPS ESTIMÉ";
+"3 min" = "3 minutes";
+
+//OBS - QT – CARTON 1
+"Two more minuets, and we are done!" = "Parce que votre enfant est unique, l'accompagnemet de ";
+"mr.arthur's " = "mr.arthur ";
+"help is personalized." = "est 100% personnalisé.";
+
+//Observer Manifesto - 7
+"will empower your child" = "encourage votre enfant";
+" to take the first step" = " à faire le premier pas.";
+
+//Observer Manifesto - 8
+"70% of children admit to spending too much time on their screens." = "70% des enfants admettent passer trop de temps devant leurs écrans.";
+"There’s still hope!" = "Il y a donc de l'espoir !";
+"But how does it work " = "Mais en pratique ";
+"in practice?" = "comment ça marche ?";
+
+//Observer Manifesto - 9
+"Your child will give you the " = "Votre enfant vous propose ";
+"screen time " = "une réduction ";
+"they’re willing to cut down to in %…" = "de son temps d'écran...";
+
+//Observer Manifesto - 10
+"mr.arthur\n" = "mr.arthur\n";
+"and its AI will help respond to this proposal." = "vous fera alors part de son avis sur cette proposition grâce à son IA.";
+
+//Observer Manifesto - 11
+"…and a % of" = "...tout en augmentant sa part";
+"OBS_MANIFEST_EDUCATIONTIME" = " de temps éducatif";
+"they're willing to introduce in the remaining time." = ".";
+//they're willing to introduce in the remaining time.
+
+//Observer Manifesto - 12
+"AI initialisation" = "Initialisation de l'IA";
+"Analysing" = "Traitement de";
+"your answers" =  "vos réponses";
+
+//Observer Manifesto - 13
+"Perfect !" = "C'est parfait !";
+"Sign up to save your answers!" = "Place à l'inscription et l'enregistrement de vos réponses.";
+
+//Manifesto Button
+"NEXT" = "SUIVANT";
+"LET'S DO THIS!" = "C'EST PARTI !";
+"SIGN UP" = "INSCRIPTION";
+
+//Signup View
+"Sign up" = "Inscription";
+"Please provide an e-mail address." = "Merci de renseigner une adresse e-mail.";
+"Invalid e-mail format." = "Format d'e-mail non valide.";
+"Please enter your login e-mail address." = "Merci de saisir votre e-mail.";
+"Please enter your e-mail address again." = "Renseignez à nouveau votre adresse e-mail.";
+"E-MAIL" = "E-MAIL";
+"CONFIRM" = "CONFIRMER";
+"Please Enter email" = "Merci de saisir votre e-mail.";
+"Please add proper email id" = "Identifiant e-mail non valide.";
+
+//Terms & Condition View
+"Terms of use & privacy policy" = "Conditions d'utilisation et politique de confidentialité";
+"ACCEPT ALL" = "TOUT ACCEPTER";
+
+//Validation View
+"Please enter the PIN sent to your address" = "Merci de saisir le code PIN envoyé sur votre adresse e-mail.";
+"Incorrect PIN." = "Code PIN non valide.";
+"Please enter your PIN again." = "Renseignez à nouveau votre code PIN.";
+"PIN" = "CODE PIN";
+"Invalid PIN." = "PIN non valide";
+"I DIDN’T RECEIVE A PIN" = "JE N'AI PAS REÇU DE CODE PIN";
+"New Pin sent" = "Nouveau code PIN envoyé";
+"Please enter validate code" = "Merci de saisir un code PIN valide.";
+"ACCESS SETTINGS" = "ACCÉDER AUX PARAMÈTRES";
+
+//Signin View
+"Sign in" = "S’identifier";
+"SUBMIT" = "CONFIRMER";
+"DD/MM/YY" = "JJ/MM/AAAA";
+//Notification Policy
+"Help your child!" = "Aidez votre enfant !";
+"Our program works 95% better with notifications." = "Notre programme fonctionne 95% mieux avec les notifications !";
+"We’ll let you know if your child plays along, if he needs help and when he achieves goals!" = "Vous resterez informés si votre enfant a besoin d'aide et quand il atteint ses objectifs.";
+"ENABLE NOTIFICATIONS" = "ACTIVER LES NOTIFICATIONS";
+"MAYBE LATER" = "PLUS TARD";
+"Notifications" = "Notifications";
+//PerfectWellDone View
+"Let's do this!" = "Allez, c'est parti !";
+"With " = "Avec ";
+"mr.arthur," = "mr.arthur,";
+"we guide you through your first mediation every step of the way!" = "vous serez guidés à chaque étape tout au long de votre première médiation !";
+
+//Addd Attendee
+"Child identity" = "Identité de l'enfant";
+"FIRST NAME" = "PRÉNOM";
+"GIRL" = "FILLE";
+"BOY" = "GARÇON ";
+"DATE OF BIRTH" = "DATE DE NAISSANCE";
+"Please select gender of child" = "Merci de sélectionner le genre de l'enfant";
+"Please add child name" = "Merci de saisir le nom de l'enfant";
+"Birthdate must be past day" = "La date de naissance doit être antérieure";
+"Please select birthdate of child" = "Merci de sélectionner une date de naissance";
+
+//Time Estimation
+"if your child doesn't use or own the device." = "si votre enfant n'utilise pas ou ne possède pas l'appareil.";
+"How much time per day does your child spend watching television?" = "Combien de temps par jour votre enfant passe-t-il devant la télévision ?";
+"How much time per day does your child spend in front of the game console?" = "Combien de temps par jour votre enfant passe-t-il devant la console de jeu ?";
+"How much does your child spend on shared screens (Household television, tablet, computer, etc.)?" = "Combien de temps par jour votre enfant passe t-il devant des écrans partagés (Télévision familiale, tablette, ordinateur, etc...)";
+"How much time per day does your child spend on his own phone?" = "Combien de temps par jour votre enfant passe-t-il sur son propre téléphone?";
+"How much time per day does your child spend on educational apps?" = "Combien de temps par jour votre enfant passe-t-il sur des apps éducatives ?";
+
+"DEVICE_OWNER" = "Appareil";
+"Once your Child's user profile has been created, you'll need to install the " = "Une fois le profil de votre enfant créé, vous devrez installer l'app ";
+"app on your child's device to continue." = "sur l'appareil de votre enfant pour continuer.";
+"Once your child's user profile has been created, please let him start and enjoy the App to send you a new screen time proposal." = "Un fois le profil de votre enfant créé, laissez-le reprendre la main sur son téléphone et vous envoyer son premier objectif !";
+"mine as a parent" = "Le mien en tant que parent";
+"WHICH_DEVICE_QUESTION" = "Quel téléphone utilisez-vous actuellement ?";
+
+//Gain Data Observer
+"sparks a love of learning in your child!" = "donne le goût d'apprendre à votre enfant !";
+"Based on your answers. With a 20% educational goal assumption (20% of remaining screen time after reduction)." = "Projection d'après vos estimations, avec une hypothèse de 20% de réduction de temps d'écran et l'introduction de 20% de temps éducatif dans le temps restant.";
+
+
+//Gain Total Time View
+"gives your child his real life back." = "partenaire des expériences deconnectées !";
+"Based on yours answers. With a 20% screen time reduction assumption." = "Projection d'après vos estimations, avec une hypothèse de 20% de réduction du temps d'écran.";
+
+//Observer Add UP finish
+"One more thing ;)" = "Autre chose ;)";
+"Please make sure your Apple ID account is available and your Family Share feature activated." = " Assurez-vous svp que votre compte Apple ID est effectif et que la fonction partage familial est activée.";
+"Go to Settings on this device" = "Allez dans réglages sur cet appareil.";
+"Tap your Apple account name" = "Appuyez sur le nom de votre compte Apple";
+"Create your Apple ID account if you haven’t yet" = "Créez votre identifiant Apple ID s'il n'existe pas encore.";
+"Tap Family Sharing" = "Allez dans Partage familial.";
+"OBS_ADD_UP_RETURNTO_LBL" = "Retournez sur ";
+
+//Device Scanner
+"Well done!" = "Super !";
+"Now it’s time to install " = "Installez l'app mr.arthur sur le téléphone de votre enfant ";
+"app on your child’s device. " = "en vous connectant avec l'e-mail que vous avez renseigné à la création de votre compte. ";
+"You can get " = "RDV ";
+"from the App Store or scan this code with the child’s device." = "sur l'App Store ou scannez le QR code directement avec le téléphone de votre enfant !";
+
+
+//ObserverAddUpFinalSetUp
+"Perfect!" = "Parfait !";
+"See you on your child’s device to finish the set up. " = "On se revoit sur l’appareil de votre enfant pour terminer la configuration.";
+"You'll need to sign in with" = "Revenez à cet écran quand tout est terminé !";
+" YOUR " = " VOTRE ";
+"account email.\n\n" = "email associé.\n\n";
+"\nYou can come back here when all is done." = "Vous pouvez revenir ici quand tout est terminé.";
+"ALL IS DONE" = "TOUT EST TERMINÉ";
+
+//Dashboard Observer
+"Usage report" = "RAPPORT JOURNALIER";
+"AVERAGE SCREEN TIME PER DAY" = "TEMPS D'ÉCRAN MOYEN QUOTIDIEN";
+"after goal" = "après objectif";
+"before goal" = "avant objectif";
+"DAILY DEVICES" = "ESTIMATIONS DE CONSOMMATION";
+"CONSUMPTION ESTIMATIONS" = "QUOTIDIENNE PAR APPAREIL";
+"PUBLIC HEALTH RECOMMENDATIONS" = "RECOMMANDATION DE SANTÉ PUBLIQUE";
+"BREAKDOWN OF ACTIVITIES PER DAY" = "DÉTAILS DES ACTIVITÉS JOURNALIÈRES";
+"Dashboard" = "Tableau de bord";
+"01h00 / day" = "01h00 / jour";
+"02h00 / day" = "02h00 / jour";
+
+//AttendeeList View
+"Child device assignment" = "Assignation du téléphone de l'enfant";
+"Select the child you want this device to be assigned, or create a new one." = "Choissisez l'enfant que vous voulez assigner à cet appareil, ou créez un nouveau profil.";
+"Add\nNEW CHILD" = "Ajouter un \nnouvel enfant";
+"Users" = "Enfants";
+
+//Observer Goal Summary
+"Goal summary" = "Rappel de l’objectif";
+"Reduce " = "Réduction du ";
+"overall screen time" = "temps d'écran total";
+" by" = "  de";
+"by " = "par ";
+"or " = "soit ";
+" per day" = " quotidien.";
+"Increase " = "Augmentation du ";
+" educational screen time " = " Temps d'écran éducatif ";
+"WHAT YOU GET OUT OF THIS" = "TES BÉNÉFICES";
+"This first goal is pretty good! You should encourage this but try to convince" = "Pas mal comme premier objectif ! Encouragez cette démarche et eventuellement de convaincre";
+"to do a little more!" = "d'aller un peu plus loin !";
+"REFUSE" = "REFUSER";
+"ACCEPT" = "ACCEPTER";
+
+//ObserverAccountInDetails
+"ACCOUNT ID" = "IDENTIFIANT DU COMPTE";
+"CHILDREN AND CONNECTED DEVICES" = "ENFANTS ET APPAREILS CONNECTÉS";
+"children" = "Les enfants\n";
+"devices" = "Les appareils";
+"LOG OUT" = "SE DÉCONNECTER";
+"Do you really want to log out?" = "Voulez-vous vraiment vous déconnecter ?";
+"Account" = "Compte";
+"DELETE" = "SE DÉCONNECTER";
+//Observer Account Seetings
+"You’ll lose all their data, including their screen time by deleting your child’s profile." = "En supprimant le profil de votre enfant vous perdrez toutes ses données, incluant son temps d'écran.";
+"Delete child’s profile" = " Supprimer le profil de l'enfant";
+"DELETE CHILD’S PROFILE" = "SUPPRIMER LE PROFIL DE L'ENFANT";
+"By making this device your child’s device, you will lock the device." = "Les fonctionnalités de cet appareil seront en partie bloquées si vous l'attribuez à votre enfant.";
+"Your child can then use " = "Votre enfant peut ainsi utiliser ";
+"mr.arthur\n" = "mr.arthur\n";
+"DEVICE’S NAME" = "NOM DE L'APPAREIL";
+"Please name the child’s device." = "Nommez svp l'appareil de l'enfant.";
+"HERE WE GO" = "C'est parti !";
+"Make this device your child’s" = "Attribuez cet appareil à votre enfant";
+"USERNAME’S iPHONE - smartphone" = "IPHONE DU NOM D'UTILISATEUR - smartphone";
+"Done" = "OK";
+"CANCEL" = "ANNULER";
+"Cancel_Head" = "Annuler";
+"Personal informations" = " Informations personnelles";
+"PERSONAL INFORMATIONS" = "INFORMATIONS PERSONNELLES";
+"MAKE THIS DEVICE MY CHILD’S DEVICE" = "ATTRIBUER CET APPAREIL À MON ENFANT";
+"Child’s profile" = "Profil de l'enfant";
+"PRIVACY POLICY" = "POLITIQUE DE CONFIDENTIALITÉ";
+"ACCOUNT" = "COMPTE";
+"More" = "Plus";
+"REMOVE THIS CHILD’S PROFILE" = "SUPPRIMER CE PROFIL";
+"DEVICES" = "LES APPAREILS";
+
+
+//Medias
+"Medias" = "Médias";
+"Featured " = "À découvrir ";
+"this month" = "ce mois-ci";
+"Enjoy the smart media content of the month! It won’t cost you any entertainment time credit!" = "Découvre les médias du mois ! Cela ne te coutera aucun crédit de temps récréatif !";
+
+//Observer Benefits Details
+"Collect them all!" = "Collectionnez-nous !";
+"Collect & share with your loved ones your " = "Collectionez et partagez vos ";
+"performance and benefits!" = "gains et performances !";
+"At this pace, USERNAME will learn a new language in XXX days!" = "À ce rythme, USERNAME apprendra une nouvelle langue dans XXX jours !";
+"Benefits" = "Bénéfices";
+"" = "";
+
+//ObserverHowitworks
+"How it works?" = "Comment ça marche ?";
+
+//AttendeeMaifestoFooterView
+"LET'S GO!" = "OK";
+"CONTINUE" = "CONTINUER";
+
+//AttendeeEducationalAppInstallationView
+"Last step!" = "Dernière étape !";
+"Please install those educational apps we have chosen for you. The selection was done according to 3 criteria:" = "a sélectionné pour vous des apps éducatives selon les critères suivants :";
+"• Educational content quality" = "• Qualité des apprentissages";
+"• Enough free content" = "• Du contenu gratuit";
+"• Fun and engaging" = "• Fun et engageantes";
+"Educational app installation" = "Installation d'apps éducatives";
+"EDUCATIONAL APP INSTALLATION" = "INSTALLATION D’APPS ÉDUCATIVES";
+"APP CATEGORIES PICKING" = "CHOISIR DES CATÉGORIES D’APPS";
+
+//AttendeeAppCategory
+//"Carefully pick the following categories." = "Merci de sélectionner les catégories suivantes.";
+"Carefully pick " = "Merci de sélectionner ";
+" the following categories." = " les catégories suivantes.";
+"only" = "seulement";
+" Entertainment " = "Divertissement";
+" Games " = "Jeux";
+" Social " = " Réseaux sociaux ";
+" Education " = " Éducation ";
+"PICK CATEGORIES" = "CHOISIR LES CATÉGORIES ";
+"App categories picking" = "Choisir des catégories d'apps";
+" All apps & Categories " = " Toutes les apps et \n catégories ";
+"Skip" = "Passer";
+"For " = "Pour ";
+"App Picking" = "Sélection d'app";
+"OK, I GET IT!" = "OK";
+"You made a mistake!\n\n You need to pick the\n apps to block NOT a\n category ;)" = "Désolé ! \n\nVous devez choisir des apps à bloquer, pas des catégories.";
+"PICK APPS" = "SÉLECTIONNER DES APPS";
+"Tap the right arrow of the « Utilities » category and pick those apps if they show up. We will block them." = "Appuyez sur la flèche droite de la catégorie « Utilitaires » et choissisez ces apps si elles s'affichent. Nous les bloquerons.";
+"Opera\n\n" = "Opera\n\n";
+"Firefox " = "Firefox ";
+"NOT Chrome " = "PAS Chrome ";
+"Safari " = "Safari ";
+"to work, your child has to use only " = "n'est fonctionnel que si votre enfant utilise seulement ";
+"For " = "Pour ";
+
+
+//AttendeeRestPeriodSelectionView
+"Make your choice!" = "À vous de choisir !";
+"All apps and sites will be blocked during the rest period." = "Tous les sites et apps seront bloqués durant le temps de repos.";
+"Rest period" = "Temps de repos";
+"No rest period" = "Pas de temps de repos";
+"CHOOSE" = "CHOISIR";
+
+///Screentimesetup
+"Choose your protection !" = "Choisissez votre protection !";
+"To protect your child, " = "Afin de protéger votre enfant, ";
+" offers 3 different levels of content filtering." = " offre 3 niveaux de filtrage de contenu.";
+"To protect your child, mr.arthur offers 3 different levels of content filtering." = "Pour protéger votre enfant, mr.arthur propose 3 niveaux de filtrage de contenu.";
+"Content filtering selection" = "Filtrage de contenu";
+"CONTENT FILTERING SELECTION" = "FILTRAGE DE CONTENU";
+"Sign in with your parent or guardian Apple account. This is requiered to pair the devices and enable parental control." = "Authentifiez-vous avec l'identifiant Apple d'un parent/tuteur. Cette étape est requise pour jumeler les appareils et activer le contrôle parental.";
+"SIGN IN WITH PARENT’S APPLE ID" = "S'AUTHENTIFIER";
+"Pairing devices" = "Jumelage d'appareils";
+
+//AttendeeFamilySharingSetUp
+"Set up family sharing & invite your child" = "Configurez le partage familial et invitez votre enfant ";
+"Tap your Apple account name" = "Entrez le nom d'utilisateur de votre compte Apple.";
+"Tap Add Member" = "Ajoutez un membre.";
+"Follow the instructions" = "Suivez les instructions.";
+"Activate " = "Activez ";
+" “Share across devices” " = " “Partager sur tous les appareils” ";
+"in the screen time menu" = "Dans le menu du temps d'écran";
+"ATTENDEE_SETTINGS_RETURN_TO" = "Retournez à ";
+"Pairing setup" = "Configuration du jumelage";
+"Complete your family setup" = "Terminez votre configuration familiale. ";
+
+///AttendeePairingSetUpView
+"The end is in sight!" = "C'est presque fini !";
+"To start helping your child, complete the next steps. After that we are done!" = "Pour commencer à aider votre enfant, merci de compléter les étapes suivantes.";
+"ATTENDEE_SETTINGS_SHARE_INVITE" = "Configurez le partage familial et invitez votre enfant.";
+
+//AttendeeMoreView
+"Do you really \nwant to log out?" = "Voulez-vous vraiment \nvous déconnecter ?";
+"ON Logout" = "SE DÉCONNECTER";
+
+//AttendeeMessageView
+//"Receive notifications, tips, and exchange information with your family, thanks to mr.arthur’s unique messaging system." = "Receive notifications, tips, and exchange information with your family, thanks to mr.arthur’s unique messaging system.";
+//"Messages" = "Messages";
+
+//CreateGoalView
+"Move the cursor forward to" = "Déplace le curseur pour";
+" your screen time." = " ton temps d'écran.";
+"reduce " = "réduire ";
+"Total screen time\nper day" = "Temps d'écran total \npar jour";
+"per year" = "par année";
+"bike trips" = "à vélo";
+"with friends" = "avec des amis";
+"educational screen time." = "temps d'écran éducatif";
+"IMPROVE" = "AMÉLIORER";
+
+//CreateGoalEducationView
+"Educational screen\ntime per day" = "Temps d'écran éducatif \npar jour";
+"14 very\nimpressed friends" = "14 amis admiratifs";
+"1 new language" = "1 nouvelle langue";
+"learned in " = "apprise en ";
+" months" = " mois";
+"Increase your" = "Augmente ton";
+
+//ModifyGoalView
+"Total\nscreen\ntime" = "Total\ntemps\nd'écran";
+"Educational\nscreen\ntime" = "Temps\nd'écran\néducatif";
+"Modify goal" = "Modifier mon objectif";
+
+//FinalGoalView
+"You would like to reduce " = "Tu aimerais réduire ton ";
+"your total screen time" = " temps d'écran total";
+"per day. This means " = "par jour. Donc ";
+" per day. This means you will have " = " par jour soit ";
+"of screen time per day." = " de temps d'écran quotidien.";
+"You’ve also increased you " = "Tu augmenterais ton ";
+"educational screen time" = "temps d'écran éducatif";
+"to" = " de";
+"This means you will " = "soit tu vas ";
+" This means you will spend " = " soit ";
+
+" on smart time per day" = " de temps éducatif quotidien.";
+"SEND" = "ENVOYER";
+
+//GoalSummaryView
+"GOAL" = "Rappel de l’objectif";
+"STATUS : " = "STATUT : ";
+"currently being reviewed" = "En cours de validation";
+"SUMMARY" = "";
+
+
+//ModifyGoalView
+"Current goal" = "Mon objectif";
+"RESET" = "REFAIRE";
+
+//ConciliationFinalGoalView
+"Congratulations!" = "Bravo !";
+"The awareness phase is now done; your did great!" = "La phase de prise de conscience est achevée; Bravo !";
+"See you in 2022" = "On se voit en 2022";
+"for a free trial of the app’s final version." = "pour un essai gratuit de la version finale.";
+
+//attendee.dashboard.view
+"Hello," = "Salut,";
+
+//AttendeeHowItsWork
+"GOAL SUMMARY" = "RAPPEL DE L'OBJECTIF";
+"each day at 6 am you start with an “advance” of " = "Dès 6 heure du matin, tu commences chaque jour avec une avance de ";
+"minimum 5 minutes " = "5 minutes minimum ";
+"of entertainment time." = "de temps récréatif.";
+"You start with " = "Tu commences avec ";
+"2 free " = "2 heures (gratuites) ";
+"hours " = "hours ";
+"of entertainment as a gift for your engagement" = "de temps récréatif, cadeau de ton engagement";
+"Look at your dashboard to know where you’re at and see goals and special bonuses to win !" = "Découvre ton tableau de bord pour suivre la progression de ton objectif et gagner des bonus !";
+"At the end of the day if you still have entertainment time left you will have an " = "En fin de journée, s'il te reste du temps récréatif, tu auras ";
+"advance of 50% " = "une avance de 50% ";
+"of that time to start the next day !" = "sur ce temps pour commencer le jour suivant !";
+"You have to spend " = "Tu dois passer ";
+"a minimum of 5 minutes " = "5 minutes minimum ";
+"on educational apps otherwise it won’t be credited, we need you focused !" = "ssur des apps éducatives sinon ce ne sera pas crédité. Il faut se concentrer !";
+"Just spend some time on those apps and you " = "Passe du temps sur ces apps et ";
+"unlock entertainment " = "débloque du temps récréatif ";
+"in real time." = "en temps réel.";
+
+"Your parents have installed " = "Tes parents ont installé des apps éducatives ";
+"fun and engaging " = "";
+"educational apps " = "fun et engageantes ";
+"on your phone/tablet." = "pour toi.";
+"Look at your dashboard to follow your child’s progress." = "Utilisez votre tableau de bord pour suivre les progrès de votre enfant.";
+
+"Let me explain you " = "Je vais t'expliquer comment ";
+"how the " = "comment ";
+"mechanics " = "fonctionne ";
+"works." = "notre mécanique.";
+"Congrats kid" = "Félicitations jeune humain";
+//tu viens juste d'éviter un cauchemar. Fini la tyrannie des parents, ça va bien se passer maintenant...
+"you just avoided a nightmare. No parent’s tyrannie, everything will be fine now…" = "tu viens d'éviter un cauchemar. Fini la tyrannie des parents !";
+//AttendeeManifesto
+"You can analyse your screen time and create your first goal!" = "Tu peux analyser ton temps d'écran et définir ton objectif !";
+"As for your parents, your " = "Pour tes parents, tes ";
+"answers are precious!" = "réponses sont précieuses!";
+"Just a few more minutes, " = "Encore quelques minutes, ";
+"you can do this " = "tu peux y arriver ";
+"Great! " = "Génial ! ";
+"Keep up playing along and " = "Continue à jouer le jeu et ";
+"you'll have control over your " = "tu seras maître de ton temps d'écran !";
+"screen time! " = "";
+"So,\n are you on board?" = "Alors, \non embarque ?";
+"Of course, you can also spend the free time you earn with friends!" = "Bien entendu, tu peux aussi passer ton temps libre avec des amis !";
+"You’re going to " = "Tu vas devoir ";
+"reduce your screen time " = "réduire ton temps d'écran total";
+" and " = " et ";
+"introduce more educational time." = "intégrant plus de temps éducatif.";
+"is on your side! First, we analyse your screen time usage, and then we make a sensible proposal to your parents!" = "est de ton côté ! Premièrement, il analyse l'utilisation de ton temps d'écran, pour que tu puisses ensuite envoyer un objectif concret.";
+
+"will help you suggest a more reasonable screen time to your parents." = "t'aidera à soumettre à tes parents un temps d'écran plus raisonnable.";
+"Don’t worry; your devices aren’t going anywhere ;)" = "Ne t'inquiète pas ; tu vas garder ton téléphone !";
+"To avoid living hell and complete parental control, " = "Afin d'éviter une situation infernale et un contrôle parental étendu, ";
+"you must make the first move " = "tu dois faire le premier pas ";
+"and challenge yourself!" = "et te donner des défis !";
+"also wants you to make the most of digital content to stay informed and learn new things." = "veut que tu profites un maximum de contenu numérique de qualité pour t'informer et apprendre en t'amusant.";
+"mr.arthur is here to help you. " = "Mr.arthur est là pour t'aider. ";
+"He’ll do everything he can to stop your parents from taking away your phone and screens." = "Il fera tout son possible pour éviter que tes parents confisquent ton téléphone et tes écrans.";
+
+"Hi," = "Salut,";
+"so you‘re the one that wants to take charge of your digital life? It’s about time!" = "alors c'est toi qui veux prendre ta vie numérique en main ? Top !";
+"Follow me, and I’ll introduce you to " = "Suis-moi, je vais te présenter ";
+
+//AttendeeAddupview
+"Congrats!" = "Bravo !";
+"Your part is over for now, you can give your child his phone back and ask him to follow the onboarding !" = "Votre configuration est achevée, vous pouvez redonner son téléphone à votre enfant afin qu'il débute son initiation !";
+"If your child has another phone or tablet you need to install " = "Si votre enfant utilise un autre téléphone ou tablette vous devez installer ";
+", the setup will be faster!" = ", mais l'installation sera plus rapide !";
+"Device Name" = "Nom de l'appareil";
+"Name your child's device" = "Nommez l'appareil de votre enfant";
+"DONE" = "OK";
+"Time estimate" = "Estimations";
+"How much time per day does your child spend on his own tablet?" = "Combien de temps par jour votre enfant passe-t-il sur sa propre tablette ? ";
+"OK" = "OK";
+
+//CustomView
+"Back" = "Retour";
+"You have accepted the goal! " = "Vous avez accepté l'objectif ! ";
+"Your child can start achieving it, and you can follow his progress." = "Votre enfant est en route pour la réussite, et vous pouvez suivre son progrès.";
+"SEE MORE" = "VOIR PLUS";
+"The goal is on its way!" = "L'OBJECTIF EST EN ROUTE !";
+"Now it’s your turn to consider the proposal and decide whether you agree with it or not." = "À votre tour d'étudier la proposition et de décider si vous l'acceptez ou non.";
+"SEE CHILD’S GOAL" = "VOIR SON OBJECTIF";
+"You have refused your child’s goal! " = "Vous avez refusé l'objectif de votre enfant ! ";
+"It didn’t go through, but we’re very close. Your child will be notified about your refusal. The new improved goal will show up here." = "Votre enfant va être notifié de votre refus. Le nouvel objectif revu et corrigé s'affichera içi, tout reste possible !";
+"Web View" = "Vue Web";
+"Install App" = "Installer l'app";
+"Share" = "Partager";
+"See on the App store" = "Voir dans l'app store";
+"Strong level" = "FORT";
+"USERNAME" = "USERNAME";
+"SMART ONES GAIN TIME!" = "DU TEMPS POUR LES BRAVES !";
+"Spend " = "Passe encore";
+" more" = "et débloque ";
+"to unlock" = "";
+" of entertainment time." = " de temps récréatif.";
+"Each " = "Chaque ";
+" unlock" = " débloque";
+"you can unlock" = " tu débloques";
+"Entertainment time left" = "Temps récréatif restant";
+"Entertainment time spent" = "Temps récréatif utilisé";
+"USAGE REPORT" = "RAPPORT D'UTILISATION";
+"Average screen time per day" = "Temps d'écran moyen par jour";
+"Message" = "Message";
+"Medias" = "Médias";
+"AUTO" = "AUTO";
+"You have 24 hours " = "Tu as 24 heures ";
+"to provide " = "pour proposer ";
+"your parents with a goal." = "un objectif à tes parents.";
+"CREATE MY GOAL" = "CRÉER MON OBJECTIF";
+"Your parents have refused your goal!" = "Tes parents ont refusé ton objectif !";
+"It didn’t go through, but we’re very close. All you need to do is reduce your screen time a little more…" = "Ça n'a pas marché mais nous sommes sur la bonne voie. Et si tu réduisais davantage ton temps d'écran ?";
+"I CAN DO BETTER" = "AMÉLIORER";
+"Your parents have confirmed your goal!" = "Tes parents ont validé ton objectif !";
+"You should be very proud of yourself because setting goals is already an achievement." = "Sois fier de toi car se fixer des objectifs c'est déjà une réussite !";
+"LET’S GET STARTED!" = "C'EST PARTI !";
+"You have 24 hours to provide" = "Tu as 24 heures pour envoyer";
+"Congratulations" = "Félicitations ";
+"You’ve just sent your parents your first goal. It’s time for them to review your proposal. They’ll send you their answer here!" = "Tu viens d'envoyer ton premier objectif à tes parents. Tu pourras consulter leur réponse sur cet écran !";
+"SEE MY GOAL" = "MON OBJECTIF";
+"comics" = "bandes-dessinées";
+"per year" = "par an";
+"miles/\nbike rides" = "randonnées";
+"afternoons" = "après-midi";
+"with friends" = "avec des amis";
+"Total devices" = "Nombre total d'appareils";
+"CUSTOM_SMARTPHONE" = "Smartphone";
+"Tablet" = "Tablette";
+"Total" = "Total";
+"Set the cursor to " = "Placer le curseur sur ";
+"if your child doesn't use or own the device." = "si votre enfant n'utilise ou ne possède pas l'appareil.";
+"Select" = "Sélectionner";
+"you have to install the application\n to your child device first" = "Vous devez d'abord installer l'application \nsur le téléphone de votre enfant.";
+
+"Strong" = "FORT";
+"BEST UNDER 7 Y.O." = "ADAPTÉ AUX - DE 7 ANS";
+"Medium" = "MOYEN";
+"BEST FOR 7 TO 12 Y.O." = "ADAPTÉ AUX 7 A 12 ANS";
+"Low" = "FAIBLE";
+"BEST FOR 12 TO 17 Y.O." = "ADAPTÉ AUX 12 A 17 ANS";
+"No content filtering" = "Aucun filtrage de contenu ";
+
+"• All content allowed (Apps & Media)." = "• tout contenu autorisé (Apps & Médias).";
+"• TV - G / Movie - G" = "• TV - G / Film - G";
+"• adult content blocked" = "• contenu adulte bloqué";
+"• app 9+ (app install upon request)" = "• app 9+ (installation d'apps sur demande)";
+"• no social media" = "• aucun réseau social";
+"• explicit not allowed" = "• explicite non autorisé";
+"• TV - PG / Movie - PG" = "• TV - PG / Film - PG";
+"• TV - 14  / Movie - R" = "• TV - 14  / Film - R";
+"• explicit music, book, web allowed" = "• explicite autorisé";
+"• app 17+ (app install upon request)" = "• app 17+ (installation d'apps sur demande)";
+"• social media compatible" = "• réseaux sociaux compatibles";
+
+
+//DeleteObserverProfile
+"Deleting your account will permanently erase all your children’s data and registered devices." = "La suppression de votre compte entraînera la perte des données de vos enfants et des appareils enregistrés.";
+"You have to delete the account on each devices you have registered." = "Vous devez supprimer le compte sur chaque appareil enregistré.";
+"ACCOUNT IS DELETED" = "LE COMPTE EST SUPPRIMÉ ";
+"DELETE MY ACCOUNT" = "SUPPRIMER MON COMPTE";
+"Delete my account " = "Supprimer mon compte";
+
+//Observer goal summary
+"It’s just not enough... your child can do better" = "Ce n'est pas suffisant, votre enfant peut sûrement mieux faire.";
+"Not bad but not great, maybe a good start ? Or you can refuse and ask him to do a little better" = "Pas mal pour un début. Vous pouvez accepter ou refuser pour encourager votre enfant à faire plus !";
+"Nice, your child did good, you can accept this goal" = "C'est un objectif raisonnable que vous pouvez accepter.";
+"Great, that’s a terrific goal, you should proudly accept it !" = "Excellent ! Vous pouvez être fier de cet objectif ! ";
+"That’s amazing, your child is ready to make huge efforts, you can be really proud !" = "Whaou ! Votre enfant se lance un grand défi, quel courage ! " ;
+"You can do better! Believe me, you will be proud of yourself." = "Tu peux aller plus loin ! Crois-moi, tu seras fier(e) de toi.";
+
+
+//ObserverMoreMainView
+"ADD NEW CHILD" = "AJOUTEZ UN NOUVEL ENFANT";
+"PRIVACY POLICY" = "POLITIQUE DE CONFIDENTIALITÉ ";
+"Privacy policy" = "Politique de confidentialité ";
+"FREQUENT QUESTIONS" = "FOIRE AUX QUESTIONS";
+"SETTINGS" = "RÉGLAGES";
+
+//ChartTimeView
+"Total screen time" = "Temps d'écran total";
+"Educational screen time" = "Temps d'écran éducatif";
+"Free time" = "Temps libre";
+"School time" = "Temps scolaire";
+"None" = "Rien";
+
+//OBSReceivedGaolCardView
+"Your child has" = "Votre enfant a";
+" 24 hours " = " 24 heures ";
+"to send you his goal. Make sure to follow up! You’ll be notified as your joint efforts progress." = "pour vous envoyer son objectif. Vous serez informé de l'évolution de vos efforts conjoints grâce à nos notifiactions.";
+"to send you his goal. Make sure to follow up!" = "pour vous envoyer son objectif. N'oubliez pas de faire un suivi !";
+"You’ll be notified as your joint efforts progress." = "Vous serez informé de l'évolution de vos efforts conjoints.";
+
+//Question_Parent.json
+// Question - 1
+"What is your main goal for your child?" = "Quel est votre objectif principal pour votre enfant ?";
+//Answer
+"Less social networking" = "Moins de réseaux sociaux";
+"More knowledge and open-mindedness" = "Plus d'apprentissage et de connaissances";
+"Less screen time" = "Moins de temps d'écran";
+"More and better-quality content" = "Du meilleur contenu";
+
+// Question - 2
+"Who are  you to your child?"= "Qui êtes-vous pour votre enfant ?";
+
+//Answer
+"Mother" = "Mère";
+"Father" = "Père";
+"Grandmother" = "Grand-mère";
+"Grandfather" = "Grand-père";
+"Other" = "Autre";
+
+// Question - 3
+"Do you often argue over screen time?" = "Les disputes à propos du temps d'écran sont-elles fréquentes à la maison ?";
+//Answer
+"Yes, everyday" = "Tous les jours";
+"Yes, atleast once a week" = "Au moins une fois par semaine";
+"No, rarely" = "Rarement";
+"Not at all" = "Pas du tout";
+
+// Question - 4
+"Do you use parental control Apps?" = "Utilisez-vous d'autres applications de contrôle parental ? ";
+//Answer
+"Yes" = "Oui";
+"No" = "Non";
+
+// Question - 5
+"If yes, are you satisfied with these Apps?" = "En êtes-vous satisfait ?";
+//Answer
+"Yes" = "Oui";
+"No" = "Non";
+
+// Question - 6
+"How do you see your child's relationship with screens?" = "Comment jugez-vous la relation de votre enfant avec les écrans ?";
+//Answer
+"Very problematic" = "Très problématique";
+"Problematic" = "Problématique";
+"Not very problematic" = "Pas très problématique";
+"Not at all problematic" = "Pas du tout problématique";
+
+// Question - 7
+"Do you feel guilty?" = "Vous sentez-vous coupable ? ";
+//Answer
+"No, not at all" = "Pas du tout";
+"No, not really" = "Pas vraiment";
+"Yes, a little" = "Un peu";
+"Yes, very much so" = "Beaucoup";
+
+// Question - 8
+"Is your child aware that his screen time is an issue?" = "Votre enfant est-il conscient que son temps d'écran est problématique ?";
+//Answer
+"Yes, few" = "Un peu";
+
+// Question - 9
+"Which device causes the most problems?" = "Quel appareil cause le plus de problème ?";
+//Answer
+"Smartphone" = "Smartphone";
+"Tablet" = "Tablette";
+"Computer" = "Ordinateur";
+"TV" = "Télévision";
+"Video game console" = "Console de jeux vidéos";
+
+// Question - 10
+"Is there another problematic device?" = "Y a-t-il un autre appareil problématique ?";
+//Answer
+"No" = "Non";
+"Smartphone" = "Smartphone";
+"Tablet" = "Tablette";
+"Computer" = "Ordinateur";
+"TV" = "Télévision";
+"Video game console" = "Console de jeux vidéos";
+
+// Question - 11
+"How would you rate your screen time and particularly on your telephone?" = "Comment évalueriez-vous votre propre temps d'écran, surtout sur votre smartphone ?";
+//Answer
+"Perfectly healthy" = "Parfaitement sain";
+"Quite healthy" = "Assez sain";
+"A bit excessive" = "Un peu excessif";
+"Too much" = "Excessif";
+"I’m not sure" = "Je ne me pose pas la question";
+
+// Question - 12
+"Which telephone are you currently using?" = "Quel téléphone utilisez-vous actuellement ?";
+//Answer
+"Mine as a parent" = "Le mien en tant que parent";
+"My child’s" = "Celui de mon enfant";
+
+//Question_Attendee.json
+// Question - 1
+"Do you feel that you spend too much time on screens?" = "Penses-tu passer trop de temps devant les écrans ?";
+//Answer
+"Yes, too much" = "Trop";
+
+// Question - 2
+"Which device do you think causes the most problems?" = "Selon toi, quel appareil cause le plus de problèmes ?";
+//Answer
+"Smartphone" = "Smartphone";
+"Tablet" = "Tablette";
+"Computer" = "Ordinateur";
+"TV" = "Télévision";
+"Video game console" = "Console de jeux vidéos";
+
+//Answer
+"No" = "Non";
+"Smartphone" = "Smartphone";
+"Tablet" = "Tablette";
+"TV" = "Télévision";
+"Video game console" = "Console de jeux vidéos";
+
+// Question - 4
+"Do you often argue with your parents over screen time?" = "Te disputes-tu souvent avec tes parents au sujet des écrans ?";
+//Answer
+"Yes" = "Oui";
+"No" = "Non";
+
+// Question - 5
+"Are you prepared for your parents to limit your screen time without asking you?" = "Serais-tu d'accord pour que tes parents limitent ton temps d'écran sans te consulter ?";
+//Answer
+"Yes" = "Oui";
+"No" = "Non";
+
+// Question - 6
+"Would you prefer to be asked so that you can set your own screen time?" = "Préfèrerais-tu pouvoir définir toi-même ton propre temps d'écran ?";
+//Answer
+"Yes" = "Oui";
+"No" = "Non";
+
+// Question - 7
+"Do you think it’s possible to learn while having fun?" = "Penses-tu qu'il soit possible d'apprendre en s'amusant ?";
+//Answer
+"Yes" = "Oui";
+"No" = "Non";
+
+// Question - 8
+"Would you be willing to spend some time on fun educational Apps to gain entertainment time and more freedom?" = "Passerais-tu du temps sur des Apps éducatives fun pour obtenir plus de liberté ?";
+//Answer
+"Yes, definitely" = "Tout à fait !";
+"Yes, why not?" = "Pourquoi pas ?";
+
+//CreateAttendeeGoal
+"It’s just not enough... your parents will never accept this !" = "Ce n'est pas suffisant... Tes parents n'accepteront jamais ça !";
+"Not bad, but probably not enough for your parents, you can do better !" = "Pas mal, mais surement pas assez pour tes parents, tu peux mieux faire !";
+"Nice, you are getting there, your parents might accept your goal !" = " C'est bien, tes parents pourraient accepter ton objectif ! ";
+"Great, that’s a terrific goal, I bet your parents will proudly accept it !" = "Excellent objectif, je parie que tes parents l'accepteront avec joie !";
+"Wow that’s amazing, you really want to change your life for the best, your parents are going to be so proud of you !" = "Whaou !!! Tu veux vraiment améliorer ta vie, tes parents vont être tellement fiers de toi !" ;
+
+"FAQ_URL" = "https://mrarthur.io/#faq";
+
+//Family control
+"Sorry we might have a problem on our side" = "Désolé, le problème vient peut-être de nous.";
+
+"A restriction prevents your app from using Family Controls on this device. \n\nMost probable cause: You are not on your child’s device, or his Apple ID account is not a child account (his age has to be set under 18)" = "Une restriction empêche votre application d'utiliser Family Control sur cet appareil. \n\nCause probable: Vous n'êtes pas sur l'appareil de votre enfant, ou son compte Apple ID n'est pas un compte enfant (son age doit être inférieur à 18 ans)";
+"The device isn't signed into a valid Apple ID account. \n\nPlease check you're using the right Apple ID account in your device's settings." = "L'appareil n'est pas connecté à un compte Apple ID valide. \n\nVeuillez vérifier que vous utilisez le bon compte Apple ID dans les paramètres de votre appareil.";
+"You seem to be already using a parental control app or Apple Screen Time. You can't use several parental control apps at the same time. \n\nPlease turn off other apps or Apple Screen Time in your devices settings." = "Vous semblez déjà utiliser une app de contrôle parental ou la fonctionnalité Temps d'Ecran d'Apple. Vous ne pouvez pas utiliser plusieurs apps de contrôle parental en même temps. \n\nMerci de désactiver l'autre app ou la fonctionnalité Temps d'Ecran dans les paramètres de vos appareils.";
+"Please retry to pair devices." = "Merci de renouveller votre tentative d'appairage.";
+"Sorry but you seem to be offline. \n\nPlease check your network connexion and retry" = "Vous devez être en ligne pour poursuivre. \n\nMerci de vérifier votre connexion réseau.";
+
+
+//Educational Benefits
+"At this pace,\n" = "À ce rythme,\n";
+"will learn \na new language \nin" = "apprendra une \nnouvelle langue \nen";
+"days!" = "jours !";
+"Mr Arthur Collectable Cards! \nhave a look at what I discovered thanks to Mr Arthur App!" = "Les cartes à collectionner de mr.arthur ! \nDécouvert grâce à l'app Mr Arthur!";
+
+//Time Saved Benefits
+"hours of real life\n" = "hors écrans\n";
+"back for" = "gagnées par";
+"More family time or more time with friends !" = "Plus de temps en famille ou plus de temps entre amis !";
+
+//QuestionDataProcessingView
+"Personalization" = "Personnalisation";
+"of your program" = "de votre programme";
+
+//ObserverDashboardUserView
+"Total time saved" = "Temps libre gagné";
+"today" = "Aujourd'hui";
+"7 days" = "7 jours";
+"30 days" = "30 jours";
+"Last 7 days" = "7 derniers jours";
+"Last 30 days" = "30 derniers jours";
+"Educational time spent" = "Temps éducatif réalisé";
+"EDUCATIONAL\nPROFIT" = "BÉNÉFICE\nÉDUCATIF";
+"FAMILY TIME\nSAVED" = "TEMPS FAMILIAL\nGAGNÉ";
+"PERSONNAL\nPROFIT" = "PERSONNEL\nBÉNÉFICE";
+
+
+//AttendeeSettingsView
+"Settings" = "Réglages";
+"Only your parents are allowed to change your settings.\nPlease ask them to achieve this task." = "Attention, seuls tes parents peuvent changer ces paramètres !";
+
+//PrivacyPolicyView
+"YOUR PRIVACY RIGHTS" = "VOS DROITS EN MATIÈRE DE VIE PRIVÉE";
+"Date of last revision: " = "Date de dernière révision: ";
+"25 October 2022" = "25 octobre 2022";
+"This Privacy Policy describes what information Mr Arthur (“mrarthur,” “we,” “our,” or “us”) may collect and how we use such information when you visit or use our website at https://mrarthur.io (the “Site”) and/or our applications, including those for use on mobile devices, tablets, personal computers, and any other devices that connect to the internet. The Site and Mr Arthur Applications are collectively referred to herein as the “Services. \n\nBy using the Services, you consent to the collection, use, and sharing of your and your children’s information by Mr Arthur in accordance with this Privacy Policy and consent to the Terms of Use and End User License Agreement, which are incorporated herein by reference. For users in the United States, the term “children,” as used herein, refers to minors under the age of 13. For users outside of the United States, “children” refers to those under the age of digital majority. For additional information about our practices regarding children’s personal information, please see Section 1.1.1 (Children’s Personal Information) and Section 5 (Children’s Privacy Rights) below. \n\nIt is important for users of the Services to read the Privacy Policy carefully. The Privacy Policy may change over time in coordination with new or different services that we may provide in the future, or for other reasons. We have provided a “Last Revised Date” at the top of the Privacy Policy, which reflects the date that this Privacy Policy was most recently updated so that users can be aware of the Privacy Policy in effect at all times. We encourage all users to occasionally refer to this Privacy Policy so that they can remain aware of our current privacy practices." = "La présente politique de confidentialité décrit les informations que Mr Arthur (“mrarthur“,  “ nous “ notre “ ou “ nos “), peut recueillir et la manière dont nous utilisons ces informations lorsque vous visitez ou utilisez notre site web à l'adresse https://mrarthur.io (le ” Site ”) et/ou nos applications, y compris celles destinées à être utilisées sur des appareils mobiles, des tablettes, des ordinateurs personnels et tout autre appareil qui se connecte à Internet, comme l’application Mr Arthur. Le site et l’application Mr Arthur sont collectivement désignés dans les présentes comme les ” Services ”. \n\nEn utilisant les Services, vous consentez à la collecte, à l'utilisation et au partage de vos informations et de celles de vos enfants par Mr Arthur conformément à la présente politique de confidentialité et vous acceptez les conditions d'utilisation et le contrat de licence de l'utilisateur final, qui sont intégrés aux présentes par référence. Pour les utilisateurs des États-Unis, le terme ” enfants ”, tel qu'il est utilisé dans les présentes, désigne les mineurs de moins de 13 ans. Pour les utilisateurs en dehors des États-Unis, le terme ”enfants” désigne les personnes n'ayant pas atteint l'âge de la majorité numérique. Pour de plus amples informations sur nos pratiques concernant les informations personnelles des enfants, veuillez consulter la section 1.1.1 (Informations personnelles des enfants) et la section 5 (Droits des enfants à la vie privée) ci-dessous. \n\nIl est important pour les utilisateurs des services de lire attentivement la politique de confidentialité. La politique de confidentialité peut être modifiée au fil du temps en coordination avec de nouveaux ou différents services que nous pouvons fournir à l'avenir, ou pour d'autres raisons. Nous avons indiqué une ”Date de dernière révision” en haut de la politique de confidentialité, qui reflète la date de la dernière mise à jour de cette politique de confidentialité afin que les utilisateurs puissent connaître la politique de confidentialité en vigueur à tout moment. Nous encourageons tous les utilisateurs à se référer occasionnellement à cette politique de confidentialité afin de rester au courant de nos pratiques actuelles en matière de confidentialité.";
+
+"1. INFORMATION WE COLLECT" = "1. LES INFORMATIONS QUE NOUS RECUEILLONS";
+"1.1. Personal Information: Mr Arthur collects “Personal Information” from you at various times and places on the Site and Mr Arthur applications. Personal Information means information relating to a particular individual, such as the individual’s name, postal address, email address, and telephone number. Personal Information also includes your “Children’s Personal Information,” as defined below in Section 1.1.1. \n\n1.1.1. Children’s Personal Information: With your consent, Mr Arthur may collect your “Children’s Personal Information.” Children’s Personal Information may include information you voluntarily submit to us such as your child’s first, middle and last name, date of birth, age, gender, and profile photo, or it may include information we collect from your child as a result of your use of the Services, such as your child’s device access times (e.g., we may collect information relating to how long your child uses or accesses his or her device to support our “allowance” feature), device identifier numbers, serial numbers, geolocation information, and other internet, device, or electronic network activity information, including, but not limited to, encrypted screenshots generated by your Mr Arthur Applications account and the transcribed content from the screenshots (e.g., through optical character recognition), as authorized by you (“Screenshots”). Screenshots may capture your children’s browsing activity, search activity, messaging activity, and other information regarding your child’s interaction with an internet website, application, advertisement, device, or interactions with a device in general. \n\nIn order to provide the Services, we may also collect from your child’s device information relating to which apps are installed on your child’s device and information relating to your child’s device permission status (e.g., if your child has disabled the usage permissions on his/her device required to provide the Services, that information may be collected or if the device can no longer be “seen”). We may also collect information from your child’s device about your child’s usage and activity in connection with the Services (e.g., error/crash reporting, usage analytics such as screen views, your child’s use of any hyperlinks available within the Services, time on page, and page hits). \n\nFor additional information about our practices regarding Children’s Personal Information, please see Section 5 (Children’s Privacy Rights) below. \n\nIn regard to the European Union, our collection of personal information from a child is limited and controlled by the parent. \n\n1.2. Non-Personal Information: Non-Personal Information means information that does not identify, and cannot reasonably be used to identify, an individual. We collect Non-Personal Information, for example, when we track the total number of visitors to the Site, the number of visitors to a particular page of the Site, and/or other such technical information. This data may be used to diagnose problems with the Services, gather demographic and geographic information to improve our Services or marketing efforts, improve our Services, and for similar purposes. Non-Personal Information includes aggregated and/or de-identified information. Mr Arthur reserves the right to use and disclose Non-Personal Information in its sole discretion." = "1.1. Informations personnelles : Mr Arthur recueille des ” Informations personnelles ” auprès de vous à divers moments et endroits sur le site et l’application Mr Arthur. Les renseignements personnels sont des renseignements relatifs à une personne en particulier, tels que le nom, l'adresse postale, l'adresse électronique et le numéro de téléphone de cette personne. Les informations personnelles comprennent également les ” informations personnelles de vos enfants ”, telles que définies ci-dessous à la section 1.1.1. \n\n1.1.1. Informations personnelles relatives aux enfants : Avec votre consentement, Mr Arthur peut recueillir vos ” Informations personnelles relatives aux enfants ”. Les Informations personnelles des enfants peuvent inclure des informations que vous nous soumettez volontairement, telles que le prénom, le second prénom et le nom de famille de votre enfant, sa date de naissance, son âge, son sexe et sa photo de profil, ou elles peuvent inclure des informations que nous recueillons auprès de votre enfant suite à votre utilisation des Services, telles que les temps d'accès à l'appareil de votre enfant (ex, nous pouvons collecter des informations relatives à la durée d'utilisation ou d'accès à l'appareil de votre enfant pour prendre en charge notre fonction ” allocation ”), les numéros d'identification des appareils, les numéros de série, les informations de géolocalisation et d'autres informations relatives à l'activité sur Internet, sur les appareils ou sur les réseaux électroniques, y compris, mais sans s'y limiter, les captures d'écran cryptées générées par votre compte de l’application Mr Arthur et le contenu transcrit des captures d'écran (par exemple, par reconnaissance optique de caractères), comme vous l'avez autorisé (” captures d'écran ”). Les captures d'écran peuvent capturer l'activité de navigation, l'activité de recherche, l'activité de messagerie et d'autres informations concernant l'interaction de vos enfants avec un site Internet, une application, une publicité, un appareil ou des interactions avec un appareil en général. \n\nAfin de fournir les Services, nous pouvons également collecter à partir de l'appareil de votre enfant des informations relatives aux applications installées sur l'appareil de votre enfant et des informations relatives à l'état des autorisations de l'appareil de votre enfant (par exemple, si votre enfant a désactivé les autorisations d'utilisation de son appareil requises pour fournir les Services, ces informations peuvent être collectées ou si l'appareil ne peut plus être ”vu”). Nous pouvons également recueillir des informations à partir de l'appareil de votre enfant sur l'utilisation et l'activité de ce dernier en rapport avec les services (par exemple, rapports d'erreurs/crashs, analyses d'utilisation telles que les vues d'écran, l'utilisation par votre enfant de tout hyperlien disponible dans les services, le temps passé sur la page et les visites de la page). \n\nPour de plus amples informations sur nos pratiques concernant les informations personnelles des enfants, veuillez consulter la section 5 (Droits des enfants en matière de confidentialité) ci-dessous. \n\nEn ce qui concerne l'Union européenne, notre collecte d'informations personnelles auprès d'un enfant est limitée et contrôlée par le parent. \n\n1.2. Informations non personnelles : Les informations non personnelles sont des informations qui n' identifient pas, et ne peuvent raisonnablement pas être utilisées pour identifier un individu. Nous recueillons des informations non personnelles, par exemple, lorsque nous suivons le nombre total de visiteurs du site, le nombre de visiteurs d'une page particulière du site et/ou d'autres informations techniques de ce type. Ces données peuvent être utilisées pour diagnostiquer des problèmes avec les services, recueillir des informations démographiques et géographiques afin d'améliorer nos services ou nos efforts de marketing, améliorer nos services et à des fins similaires. Les informations non personnelles comprennent des informations agrégées et/ou dépersonnalisées. Mr Arthur se réserve le droit d'utiliser et de divulguer des informations non personnelles à sa seule discrétion.";
+
+"2. HOW WE COLLECT INFORMATION" = "2. COMMENT NOUS RECUEILLONS LES INFORMATIONS";
+"2.1. Voluntarily Provided Information: Mr Arthur may collect Personal Information, including your Children’s Personal Information, whenever you voluntarily provide such information including, for example, when you conduct business with us, use our Services, request information or materials from us, create or update any Mr Arthur accounts, when you voluntarily send Screenshots, or when you communicate with us about questions or concerns. \n\nExamples of the type of information you may voluntarily provide include: \n\nYour first name, last name, email address, and any updates to that information thereafter; \n\nInformation relating to your child, such as your child’s name, age, birthdate, gender, and profile photo (see Section 1.1.1. (Children’s Personal Information) for more information); and \n\nIf you sign up for any of our paid Services, your credit card or debit card information (such as card type, last four digits of your card, and expiration date) and other financial data and transaction history that we need to process your payment and provide the paid Services. \n\n2.2 Services-Related Information: We may collect Personal Information, including your Children’s Personal Information, as a result of your use of the Services. This includes, for example: \n\nCustom word lists you create to allow the Services to flag specific words of interest to you and the number of times the words appear within screenshots; \n\nInformation you may provide to us relating to the desired preferences of the Services (e.g., determining the preferred units of measurement for geofencing notifications). \n\nSchedules you may create as part of the Services (e.g., to schedule device access for your child’s device and related screen time allowance information); and \n\nInformation relating to which apps are installed on your child’s device and information relating to your child’s device status/permission status (e.g., if your child has disabled the usage permissions on his/her device required to provide the Services, that information may be collected or if the device can no longer be “seen”) (see Section 1.1.1. (Children’s Personal Information) for more information). \n\n2.3. Information Obtained from Third Parties: In limited circumstances, we may collect your Personal Information from third parties. For example, the payment processors we work with generally provide us with information related to you, such as a unique token that enables you to make additional purchases using the information they’ve stored, including recurring payments if you authorize automatic renewals, and your card’s type, expiration date, and certain digits of your card number. We do not collect your Children’s Personal Information from third parties. \n\n2.4. Cookies and Similar Technologies: When you use the Services, we and certain third parties may use “cookies” and similar technologies like pixels, web beacons, and local storage (collectively, “Collection Technology“) \n\nto collect information. We do not use Collection Technology to collect Children’s Personal Information. \n\nFor example, when you use our Services, we may use Collection Technology to collect certain device information, such as: device operating system, device operating system version, IP addresses, access times, browser type and language, browser version, and device identifier numbers. We may also use Collection Technology to collect information about your usage and activity related to the Services (e.g., error/crash reporting, usage analytics, your use of any hyperlinks available within the Services, time on page, and page hits), and chat analytics when the chat feature is used. \n\nYou have the right to choose whether or not to accept cookies. However, they are an important part of how the Services work, so you should be aware that if you choose to refuse or remove cookies, it could affect the availability and functionality of the Services. Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. To do so, please follow the instructions provided by your browser. \n\nRemoving or rejecting browser cookies does not necessarily affect third-party flash cookies or other web trackers, which may be used by us or our partners in connection with the Sites. To delete or disable flash cookies, please visit this site for more information. For further information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, you can visit https://www.allaboutcookies.org/.\n\n2.5. Third-Party Analytics: We may use third-party analytics tools including, for example, Amplitude, to help us measure traffic and usage trends for the Services. These tools may collect your Personal Information, including Children’s Personal Information, sent by your devices or our Services that assists us in improving the Services. You can read Amplitude’s privacy policy, by visiting this link: https://amplitude.com/privacy" = "2.1. Informations fournies volontairement : Mr Arthur peut recueillir des Informations personnelles, y compris les Informations personnelles de vos enfants, chaque fois que vous fournissez volontairement de telles informations, y compris, par exemple, lorsque vous faites des affaires avec nous, utilisez nos Services, nous demandez des informations ou du matériel, créez ou mettez à jour des comptes Mr Arthur, lorsque vous envoyez volontairement des Captures d'écran ou lorsque vous communiquez avec nous au sujet de questions ou de préoccupations. \n\nVoici quelques exemples du type d'informations que vous pouvez fournir volontairement : \n\nVotre prénom, votre nom de famille, votre adresse électronique, et toute mise à jour de ces informations par la suite ; les informations relatives à votre enfant, telles que son nom, son âge, sa date de naissance, son sexe et sa photo de profil (voir la section 1.1.1. (Informations personnelles relatives aux enfants) pour plus d'informations) ; et si vous vous inscrivez à l'un de nos services payants, les informations relatives à votre carte de crédit ou de débit (telles que le type de carte, les quatre derniers chiffres de votre carte et la date d'expiration) et d'autres données financières et l'historique des transactions dont nous avons besoin pour traiter votre paiement et fournir les services payants. \n\n2.2 Informations relatives aux services : Nous pouvons recueillir des informations personnelles, y compris les informations personnelles de vos enfants, suite à votre utilisation des services. Cela comprend, par exemple, les éléments suivants: \n\nLes listes de mots personnalisées que vous créez pour permettre aux services de signaler des mots spécifiques qui vous intéressent et le nombre de fois où ces mots apparaissent dans les captures d'écran ; \n\nLes informations que vous pouvez nous fournir concernant les préférences souhaitées des Services (par exemple, la détermination des unités de mesure préférées pour les notifications de géorepérage). \n\nLes calendriers que vous pouvez créer dans le cadre des services (par exemple, pour programmer l'accès à l'appareil de votre enfant et les informations relatives au temps d'écran autorisé) ; \n\net les informations relatives aux applications installées sur l'appareil de votre enfant et les informations relatives à l'état de l'appareil de votre enfant/au statut des autorisations (par exemple, si votre enfant a désactivé les autorisations d'utilisation de son appareil requises pour fournir les Services, ces informations peuvent être collectées ou si l'appareil ne peut plus être ” vu ”) (voir la section 1.1.1. (Informations personnelles des enfants) pour plus d'informations). \n\n2.3. Informations obtenues auprès de tiers : Dans des circonstances limitées, nous pouvons recueillir vos Informations personnelles auprès de tiers. Par exemple, les processeurs de paiement avec lesquels nous travaillons nous fournissent généralement des informations vous concernant, telles qu'un jeton unique qui vous permet d'effectuer des achats supplémentaires en utilisant les informations qu'ils ont stockées, y compris des paiements récurrents si vous autorisez des renouvellements automatiques, ainsi que le type de votre carte, sa date d'expiration et certains chiffres de son numéro. Nous ne recueillons pas les informations personnelles de vos enfants auprès de tiers. \n\n2.4. Cookies et technologies similaires : Lorsque vous utilisez les Services, nous et certains tiers pouvons utiliser des ” cookies ” et des technologies similaires comme les pixels, les balises web et le stockage local (collectivement, ” Technologie de collecte ”) pour collecter des informations. Nous n'utilisons pas de technologies de collecte pour recueillir des informations personnelles sur les enfants. \n\nPar exemple, lorsque vous utilisez nos Services, nous pouvons utiliser la Technologie de collecte pour recueillir certaines informations sur les appareils, telles que : le système d'exploitation de l'appareil, la version du système d'exploitation de l'appareil, les adresses IP, les temps d'accès, le type et la langue du navigateur, la version du navigateur et les numéros d'identification de l'appareil. Nous pouvons également utiliser la technologie de collecte pour recueillir des informations sur votre utilisation et vos activités liées aux services (par exemple, rapports d'erreurs/crashs, analyses d'utilisation, utilisation de tout hyperlien disponible dans les services, temps de consultation des pages et visites de pages) et des analyses de chat lorsque la fonction de chat est utilisée. \n\nVous avez le droit de choisir d'accepter ou de refuser les cookies. Cependant, ils constituent une partie importante du fonctionnement des services. Vous devez donc savoir que si vous choisissez de refuser ou de supprimer les cookies, cela pourrait affecter la disponibilité et la fonctionnalité des services. La plupart des navigateurs web sont configurés pour accepter les cookies par défaut. Si vous préférez, vous pouvez généralement choisir de configurer votre navigateur pour qu'il supprime ou rejette les cookies du navigateur. Pour ce faire, veuillez suivre les instructions fournies par votre navigateur. \n\nLa suppression ou le rejet des cookies du navigateur n'affecte pas nécessairement les cookies flash tiers ou autres traceurs web, qui peuvent être utilisés par nous ou nos partenaires en relation avec les sites. Pour supprimer ou désactiver les cookies flash, veuillez consulter ce site pour plus d'informations. Pour de plus amples informations sur les cookies, y compris sur la manière de voir quels cookies ont été installés sur votre appareil et comment les gérer et les supprimer, vous pouvez consulter le site https://www.allaboutcookies.org/.\n\n2.5. Analyse par des tiers : Nous pouvons utiliser des outils d'analyse tiers, y compris, par exemple, Amplitude, pour nous aider à mesurer le trafic et les tendances d'utilisation des Services. Ces outils peuvent collecter vos Informations personnelles, y compris les Informations personnelles des enfants, envoyées par vos appareils ou nos Services qui nous aident à améliorer les Services. Vous pouvez lire la politique de confidentialité d’ Amplitude en consultant ce lien: https://amplitude.com/privacy";
+
+"3. HOW WE USE THE PERSONAL INFORMATION WE COLLECT" = "3. COMMENT NOUS UTILISONS LES INFORMATIONS PERSONNELLES QUE NOUS COLLECTONS";
+
+"Personal Information we collect may be used for the purposes listed below. Children’s Personal Information is used in accordance with Section 5.3 below. \n\n3.1. To provide, develop, maintain, operate, and improve our Services; \n\n3.2. To understand you and your preferences to enhance your experience and provide a more personalized Service; \n\n3.3. To process and fulfill a request or other transaction submitted by you, including, for example, to process payment transactions and to respond to your comments and questions and provide customer support; \n\n3.4. To communicate with you including, for example, to send you Services-related information (e.g., geofencing notifications), including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages; \n\n3.5. For our own marketing purposes. To this end, we may communicate with you about new contests, promotions, rewards, upcoming events, and other news about our Services and our selected partners; \n\n3.6. For our business operations (e.g., billing, auditing, reporting, and statistical analysis); \n\n3.7. To meet or comply with any applicable law, regulation, legal process, or other legal obligation; protect or prevent harm, fraud, or financial loss; or promote, detect, investigate and help prevent security, fraud or technical issues; and protect our legitimate business interests and legal rights; and \n\n3.8. In connection with corporation transactions, which refers to transfers of Personal Information in the event we sell or transfer, or are considering selling or transferring, all or a portion of our business or assets." = "Les informations personnelles que nous recueillons peuvent être utilisées aux fins énumérées ci-dessous. Les informations personnelles des enfants sont utilisées conformément à la section 5.3 ci-dessous. \n\n3.1. Pour fournir, développer, maintenir, exploiter et améliorer nos services ; \n\n3.2. Pour vous comprendre et connaître vos préférences afin d'améliorer votre expérience et de fournir un service plus personnalisé ; \n\n3.3. Pour traiter et satisfaire une demande ou toute autre transaction soumise par vous, y compris, par exemple, pour traiter les transactions de paiement et pour répondre à vos commentaires et questions et fournir une assistance à la clientèle ; \n\n3.4. Pour communiquer avec vous, y compris, par exemple, pour vous envoyer des informations liées aux Services (par exemple, des notifications de géorepérage), notamment des confirmations, des factures, des avis techniques, des mises à jour, des alertes de sécurité et des messages d'assistance et administratifs ; \n\n3.5. For our own marketing purposes. To this end, we may communicate with you about new contests, promotions, rewards, upcoming events, and other news about our Services and our selected partners; \n\n3.6. Pour nos opérations commerciales (par exemple, facturation, audit, rapports et analyse statistique) ; \n\n3.7. Pour répondre ou se conformer à toute loi, réglementation, procédure judiciaire ou autre obligation légale applicable ; pour protéger ou prévenir tout préjudice, toute fraude ou toute perte financière ; ou pour promouvoir, détecter, enquêter et aider à prévenir la sécurité, la fraude ou les problèmes techniques ; et pour protéger nos intérêts commerciaux légitimes et nos droits légaux ;  \n\n3.8. Et dans le cadre de transactions de sociétés, ce qui fait référence aux transferts d'informations personnelles dans le cas où nous vendons ou transférons, ou envisageons de vendre ou transférer, tout ou une partie de nos activités ou actifs.";
+
+"4. DISCLOSURE OF YOUR INFORMATION TO THIRD PARTIES" = "4. DIVULGATION DE VOS INFORMATIONS À DES TIERS";
+"Mr Arthur may share your Personal Information to third parties as listed below. Disclosure of Children’s Personal Information shall occur in accordance with Section 5.4 below. \n\n4.1. With Your Consent: We may share your information, including Personal Information, with another company when you allow us to do so (i.e., when we have obtained your consent). \n\n4.2. Service Providers: We may share your information, including Personal Information, with third parties to assist in our business operations (e.g., to process payments, store data, deliver information, and perform other similar functions); administrative functions; marketing functions; and/or to provide the Mr Arthur Applications services you have requested (collectively, “Service Providers”). Service Providers are prohibited from using your Personal Information for purposes other than those requested by us or required by law. \n\n4.3. Major Transactions: We may share your information, including Personal Information, as part, of or in connection with, a merger, acquisition, assignment, as part of debt financing, the sale of company assets, or in any similar transaction, or to the extent as may be required in the unlikely event of insolvency bankruptcy, or a receivership. \n\n4.4. Professional Advisors: We may share information with our legal, financial, and other advisors in connection with the corporate transactions described above or in connection with the management of our business and operations. \n\n4.5. Disclosures Under Special Circumstances: We may share your information, including Personal Information, when we believe doing so may be appropriate, including but not limited to when it may be legally required, necessary to comply with laws, or in response to lawful requests or legal process. We may also share such information where we believe it may limit our liability in an actual or potential lawsuit, or where otherwise necessary to protect our rights, interests and/or property (including, without limitation, to enforce our agreements), or the rights, interests and/or property of our agents, independent contractors, customers, and others." = "Mr Arthur peut partager vos informations personnelles avec des tiers comme indiqué ci-dessous. La divulgation des informations personnelles des enfants se fera conformément à la section 5.4 ci-dessous. \n\n4.1. Avec votre consentement : Nous pouvons partager vos informations, y compris les informations personnelles, avec une autre société lorsque vous nous autorisez à le faire (c'est-à-dire lorsque nous avons obtenu votre consentement). \n\n4.2. Fournisseurs de services : Nous pouvons partager vos informations, y compris vos Données personnelles, avec des tiers pour nous aider dans nos opérations commerciales (par exemple, pour traiter les paiements, stocker des données, livrer des informations et exécuter d'autres fonctions similaires) ; des fonctions administratives ; des fonctions marketing ; et/ou pour fournir les services de l’application Mr Arthur que vous avez demandés (collectivement, les ” Prestataires de services ”). Il est interdit aux prestataires de services d'utiliser vos informations personnelles à des fins autres que celles que nous avons demandées ou que la loi exige. \n\n4.3. Transactions majeures : Nous pouvons partager vos informations, y compris les informations personnelles, dans le cadre d'une fusion, d'une acquisition, d'une cession, dans le cadre d'un financement par emprunt, de la vente d'actifs de l'entreprise ou de toute autre transaction similaire, ou dans la mesure où cela peut être nécessaire dans le cas improbable d'une faillite d'insolvabilité ou d'une mise sous séquestre. \n\n4.4. Conseillers professionnels : Nous pouvons partager des informations avec nos conseillers juridiques, financiers et autres dans le cadre des transactions d'entreprise décrites ci-dessus ou dans le cadre de la gestion de nos activités et opérations. \n\n4.5. Divulgations dans des circonstances particulières : Nous pouvons partager vos informations, y compris les informations personnelles, lorsque nous pensons que cela peut être approprié, y compris, mais sans s'y limiter, lorsque cela peut être exigé par la loi, nécessaire pour se conformer aux lois, ou en réponse à des demandes légitimes ou à une procédure judiciaire. Nous pouvons également partager ces informations lorsque nous pensons que cela peut limiter notre responsabilité dans le cadre d'un procès réel ou potentiel, ou lorsque cela est nécessaire pour protéger nos droits, nos intérêts et/ou nos biens (y compris, sans s'y limiter, pour faire respecter nos accords), ou les droits, les intérêts et/ou les biens de nos agents, entrepreneurs indépendants, clients et autres.";
+
+"5. CHILDREN’S PRIVACY RIGHTS" = "5. LE DROIT À LA VIE PRIVÉE DES ENFANTS";
+
+"Mr Arthur does not sell products or services to children. The Services are not intended for children to submit Personal Information to Mr Arthur without the consent of their legal guardians. In compliance with the Children’s Online Privacy Protection Act (“COPPA”), please see below: \n\n5.1. The types of Personal Information we collect from children are detailed above in Section 1.1.1 (Children’s Personal Information). \n\n5.2. How we collect information from children is detailed above in Section 2 (How We Collect Information). \n\n5.3. Mr Arthur uses Children’s Personal Information for the purposes listed below: \n\nProvide, develop, maintain, operate, and improve our Services, \n\nProcess and fulfill a request or other transaction submitted by you, including, for example, to respond to comments and questions and provide customer support; \n\nCommunicate with you including, for example, to send you Services-related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages; \n\nFor our business operations (e.g., auditing, reporting, and statistical analysis); \n\nTo meet or comply with any applicable law, regulation, legal process or other legal obligation; protect or prevent harm, fraud, or financial loss; or promote, detect, investigate and help prevent security, fraud or technical issues; and protect our legitimate business interests and legal rights; and \n\nFor corporation transactions, which refers to transfers of Personal Information in the event we sell or transfer, or are considering selling or transferring, all or a portion of our business or assets. \n\n5.4. We may share or disclose Children’s Personal Information in a limited number of instances, including the following: \n\nWe may share Children’s Personal Information with our Service Providers if necessary for them to perform a business, professional, or technology support function for us. Please see Appendix A for a list of Service Providers (i.e., third-party operators) who may collect Children’s Personal Information through the Services. Please contact us at the mailing address, email, or phone number listed in Section 15 (Contact Us) with questions about our, or our Service Providers’, privacy policies and practices. \n\nWe may disclose Children’s Personal Information if permitted or required by law, for example, in response to a court order or a subpoena. To the extent permitted by applicable law, we also may disclose personal information collected from children (i) in response to a law enforcement or public agency’s request; (ii) if we believe disclosure may prevent the instigation of a crime, facilitate an investigation related to public safety or protect the safety of a child; (iii) to protect the security or integrity of our Services; or (iv) enable us to take precautions against liability. \n\n5.5. We will not collect more information from your children than is reasonably necessary to provide the Services. \n\nIn accordance with COPPA, you may upon request, review the Children’s Personal Information we have collected from your child, such as name, address, telephone number, email address, and direct us to delete such information, and/or refuse us to allow any further collection or use of your Children’s Personal Information. To exercise your rights, please contact us by email at contact@mrarthur.io \n\nFor European Union data subjects, our collection of personal data from a child is limited and controlled by the parent." = "Mr Arthur ne vend pas de produits ou de services aux enfants. Les Services ne sont pas conçus pour que les enfants soumettent des informations personnelles à Mr Arthur sans le consentement de leurs tuteurs légaux. Conformément à la loi sur le RGPD (Règlement général sur la protection des données), veuillez voir ci-dessous : \n\n5.1. Les types d'informations personnelles que nous recueillons auprès des enfants sont détaillés ci-dessus dans la section 1.1.1 (Informations personnelles des enfants). \n\n5.2. La manière dont nous recueillons les informations des enfants est détaillée ci-dessus dans la section 2 (Comment nous recueillons les informations). \n\n5.3. Mr Arthur utilise les informations personnelles des enfants aux fins énumérées ci-dessous : \n\nFournir, développer, maintenir, exploiter et améliorer nos services ; \n\nTraiter et satisfaire une demande ou une autre transaction que vous avez soumise, y compris, par exemple, pour répondre à des commentaires et à des questions et fournir une assistance à la clientèle ; \n\nCommuniquer avec vous, par exemple pour vous envoyer des informations relatives aux services, y compris des confirmations, des factures, des avis techniques, des mises à jour, des alertes de sécurité et des messages d'assistance et d'administration ; \n\nPour nos opérations commerciales (par exemple, audit, rapports et analyse statistique) ; \n\nPour répondre ou se conformer à toute loi, réglementation, procédure judiciaire ou autre obligation légale applicable ; pour protéger ou prévenir tout préjudice, toute fraude ou toute perte financière ; ou pour promouvoir, détecter, enquêter et aider à prévenir la sécurité, la fraude ou les problèmes techniques ; et pour protéger nos intérêts commerciaux légitimes et nos droits légaux ; \n\nEt pour les transactions de la société, ce qui fait référence aux transferts d'informations personnelles dans le cas où nous vendons ou transférons, ou envisageons de vendre ou transférer, tout ou une partie de nos activités ou actifs. \n\n5.4. Nous pouvons partager ou divulguer les informations personnelles des enfants dans un nombre limité de cas, notamment les suivants : \n\nNous pouvons partager les informations personnelles des enfants avec nos fournisseurs de services si cela est nécessaire pour qu'ils puissent remplir une fonction de soutien commercial, professionnel ou technologique pour nous. Veuillez consulter l'annexe A pour obtenir une liste des fournisseurs de services (c'est-à-dire des opérateurs tiers) qui peuvent collecter les informations personnelles des enfants par le biais des services. Veuillez nous contacter à l'adresse postale, à l'adresse électronique ou au numéro de téléphone indiqués à la section 15 (Nous contacter) si vous avez des questions sur nos politiques et pratiques de confidentialité ou celles de nos fournisseurs de services. \n\nNous pouvons divulguer les informations personnelles des enfants si la loi le permet ou l'exige, par exemple, en réponse à une ordonnance du tribunal ou à une assignation à comparaître. Dans la mesure où la loi applicable le permet, nous pouvons également divulguer des informations personnelles recueillies auprès d'enfants (i) en réponse à la demande d'un organisme d'application de la loi ou d'un organisme public ; (ii) si nous pensons que la divulgation peut empêcher l'instigation d'un crime, faciliter une enquête liée à la sécurité publique ou protéger la sécurité d'un enfant ; (iii) pour protéger la sécurité ou l'intégrité de nos Services ; ou (iv) pour nous permettre de prendre des précautions contre la responsabilité. \n\n5.5. Nous ne collecterons pas plus d'informations sur vos enfants que ce qui est raisonnablement nécessaire pour fournir les services. \n\nConformément au RGPD, vous pouvez, sur demande, consulter les informations personnelles relatives aux enfants que nous avons collectées auprès de votre enfant, telles que son nom, son adresse, son numéro de téléphone, son adresse électronique, et nous demander de supprimer ces informations et/ou de refuser toute collecte ou utilisation ultérieure de vos informations personnelles relatives aux enfants. Pour exercer vos droits, veuillez nous contacter par courriel à contact@mrarthur.io \n\nPour les personnes concernées de l'Union européenne, notre collecte de données personnelles auprès d'un enfant est limitée et contrôlée par le parent.";
+
+"6. SECURITY" = "6. SÉCURITÉ";
+
+"We maintain reasonable security procedures to protect the confidentiality, security, and integrity of the Personal Information we collect. Such practices include using technical controls to secure the information that we collect, as appropriate, including Secure Socket Layer (SSL) and password protections. \n\nMr Arthur cannot guarantee the security of the information on and sent from the Services. No transmission of data over the internet is guaranteed to be completely secure. It may be possible for third parties not under the control of Mr Arthur to intercept or access transmissions or private communications unlawfully. Neither Mr Arthur nor any of our service providers can ensure or warrant the security of any information you transmit to us over the internet. Any such transmission is done at your own risk." = "Nous maintenons des procédures de sécurité raisonnables pour protéger la confidentialité, la sécurité et l'intégrité des informations personnelles que nous recueillons. Ces pratiques comprennent l'utilisation de contrôles techniques pour sécuriser les informations que nous recueillons, le cas échéant, y compris le protocole SSL (Secure Socket Layer) et les protections par mot de passe. \n\nMr Arthur ne peut pas garantir la sécurité des informations sur et envoyées depuis les Services. Aucune transmission de données sur Internet n'est garantie comme étant totalement sûre. Il peut être possible pour des tiers qui ne sont pas sous le contrôle de Mr Arthur d'intercepter ou d'accéder à des transmissions ou des communications privées de manière illégale. Ni Mr Arthur ni aucun de nos prestataires de services ne peuvent assurer ou garantir la sécurité des informations que vous nous transmettez par Internet. Toute transmission de ce type est effectuée à vos propres risques.";
+
+"7. THIRD-PARTY WEBSITES" = "7. SITES WEB DE TIERS";
+"The Services may contain third-party links or include third-party integrations. Through these links and integrations, you may be providing information (including Personal Information) directly to the third-party, us, or both. You acknowledge and agree that we are not responsible for how those third parties collect or use your information. The information we collect is covered by this privacy policy, and the information the third-party collects is subject to the third-party’s privacy practices. Privacy choices you have made on any third-party site or platform will not apply to our use of the information we have collected directly through our Services. You should review the privacy policies of every third-party service that you visit or see, including those third parties you interact with through our Services." = "Les Services peuvent contenir des liens vers des tiers ou inclure des intégrations de tiers. Par le biais de ces liens et intégrations, vous pouvez fournir des informations (y compris des informations personnelles) directement à la tierce partie, à nous, ou aux deux. Vous reconnaissez et acceptez que nous ne sommes pas responsables de la manière dont ces tiers collectent ou utilisent vos informations. Les informations que nous recueillons sont couvertes par la présente politique de confidentialité, et les informations recueillies par le tiers sont soumises aux pratiques de confidentialité de ce dernier. Les choix de confidentialité que vous avez faits sur un site ou une plate-forme tiers ne s'appliqueront pas à l'utilisation que nous faisons des informations que nous avons recueillies directement par le biais de nos services. Vous devez examiner les politiques de confidentialité de chaque service tiers que vous visitez ou consultez, y compris les tiers avec lesquels vous interagissez par le biais de nos services.";
+
+"8. CORRECTING YOUR PERSONAL INFORMATION" = "8. CORRECTION DE VOS INFORMATIONS PERSONNELLES";
+"You may request to view and, if necessary, correct Personal Information we collect about you. To do so, please contact us by using one of the contact methods provided in Section 11 (Contact Us) below. Please include your full name, mailing address and phone number in all requests." = "Vous pouvez demander à consulter et, si nécessaire, à corriger les informations personnelles que nous recueillons à votre sujet. Pour ce faire, veuillez nous contacter en utilisant l'une des méthodes de contact indiquées à la section 11 (Nous contacter) ci-dessous. Veuillez indiquer votre nom complet, votre adresse postale et votre numéro de téléphone dans toutes vos demandes.";
+
+"9. OPTING OUT OF PROMOTIONAL EMAILS" = "9. REFUS DE RECEVOIR DES COURRIELS PROMOTIONNELS";
+"We allow you to choose which forms of communication you receive from us. You may opt out of receiving promotional emails from us by following the instructions in those emails. If you opt out of receiving promotional emails, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations." = "Nous vous permettons de choisir les formes de communication que vous recevez de notre part. Vous pouvez choisir de ne pas recevoir de courriels promotionnels de notre part en suivant les instructions figurant dans ces courriels. Si vous choisissez de ne pas recevoir de courriels promotionnels, nous pouvons toujours vous envoyer des courriels non promotionnels, tels que des courriels concernant vos comptes ou nos relations commerciales en cours.";
+
+"10. NOTICE TO CALIFORNIA RESIDENTS – YOUR CALIFORNIA PRIVACY RIGHTS" = "10. NOTICE TO CALIFORNIA RESIDENTS – YOUR CALIFORNIA PRIVACY RIGHTS";
+
+"10.1. Shine the Light: We do not sell, disclose, trade, or rent your Personal Information to third parties to market their own products or services. \n\n10.2. Do Not Track: Some Internet browsers may be configured to send “Do Not Track” signals to the online services that you visit. We currently do not respond to “Do Not Track” or similar signals. To find out more about “Do Not Track,” please visit https://www.allaboutdnt.com. \n\n10.3. California Consumer Privacy Act: The California Consumer Privacy Act (“CCPA”) affords California consumers certain rights over their Personal Information. Please see our California Privacy Notice for an outline of those rights and an explanation of how such rights may be exercised." = "10.1. Shine the Light: We do not sell, disclose, trade, or rent your Personal Information to third parties to market their own products or services. \n\n10.2. Do Not Track: Some Internet browsers may be configured to send “Do Not Track” signals to the online services that you visit. We currently do not respond to “Do Not Track” or similar signals. To find out more about “Do Not Track,” please visit https://www.allaboutdnt.com. \n\n10.3. California Consumer Privacy Act: The California Consumer Privacy Act (“CCPA”) affords California consumers certain rights over their Personal Information. Please see our California Privacy Notice for an outline of those rights and an explanation of how such rights may be exercised.";
+
+"11. NOTICE TO EUROPEAN UNION DATA SUBJECTS – GENERAL DATA PROTECTION REGULATION" = "11. AVIS AUX PERSONNES CONCERNÉES DE L'UNION EUROPÉENNE - RÈGLEMENT GÉNÉRAL SUR LA PROTECTION DES DONNÉES";
+"This Section 11 (Notice to European Union Data Subject – General Data Protection Regulation) applies specifically to European Union data subjects. For the purpose of this section, terms used but not defined shall have the meaning ascribed to them in the General Data Protection Regulation. \n\n11.1. Data Subject Rights: You have the following rights with respect to your Personal Information where and to the extent they apply to your particular processing: \n\nThe right to request a copy of your Personal Information which the Mr Arthur holds about you; \n\nThe right to request that Mr Arthur corrects any Personal Information if it is found to be inaccurate or out of date; \n\nThe right to request your Personal Information is erased where it is no longer necessary for Mr Arthur to retain such data; \n\nThe right to withdraw your consent to the processing of your Personal Information at any time; \n\nThe right to request that Mr Arthur provides you with your Personal Information and where possible, to transmit that data directly to another data controller (where applicable); \n\nThe right, where there is a dispute in relation to the accuracy or processing of your Personal Information, to request a restriction is placed on further processing; and \n\nThe right to lodge a complaint with a European Union Data Protection or Supervisory Authority. \n\n11.2. Exercise of Data Subject Rights: You may let us know of your desire to enforce any of the rights described in this Privacy Policy by sending an email to contact@mrarthur.io, and we will respond within the time required by applicable. Please note that we may ask you to verify your identity before taking further action on your request. Please also note that laws and contractual frameworks limit your exercise of these data rights; we welcome you to ask us questions any time, and we will answer them as described above. \n\n11.3. Right to Withdraw Consent to Processing: Where you have provided your consent to the processing of your Personal Information by Mr Arthur you may withdraw your consent at any time by sending a communication to Mr Arthur specifying which consent you are withdrawing. Please note that the withdrawal of your consent does not affect the lawfulness of any processing activities based on such consent before its withdrawal. Additionally, in some jurisdictions, applicable law may give you the right to limit the ways in which we use your Personal Information, in particular where: \n\nyou contest the accuracy of your Personal Information; \n\nthe processing is unlawful, and you oppose the erasure of your Personal Information; \n\nwe no longer need your Personal Information for the purposes of the processing, but you require the information for the establishment, exercise or defense of legal claims; or \n\nyou have objected to the processing and pending the verification whether the legitimate grounds of Mr Arthur overrides your own. \n\n11.4. Complaints to Supervisory Authorities: We invite you to let us know about any and all issues regarding our data processing activities or this Privacy Policy, and we will respond to you within 30 days of receipt of such notification. If you consider that our processing of your Personal Information infringes European Union data protection laws, in particular if you are an EU resident, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your habitual residence, your place of work, or the place of the alleged infringement. For example, in the United Kingdom this is the Information Commissioner’s Office, and in Ireland this is the Data Protection Commissioner." = "La présente section 11 (Avis aux personnes concernées de l'Union européenne - Règlement général sur la protection des données) s'applique spécifiquement aux personnes concernées de l'Union européenne. Aux fins de la présente section, les termes utilisés mais non définis ont la signification qui leur est attribuée dans le Règlement général sur la protection des données. \n\n11.1. Droits de la personne concernée : Vous disposez des droits suivants en ce qui concerne vos Données personnelles lorsque et dans la mesure où ils s'appliquent à votre traitement particulier : \n\nLe droit de demander une copie des informations personnelles que Mr Arthur détient à votre  sujet ; \n\nLe droit de demander à Mr Arthur de corriger toute information personnelle s'il s'avère qu'elle est inexacte ou obsolète ; \n\nLe droit de demander que vos informations personnelles soient effacées lorsqu'il n'est plus nécessaire pour Mr Arthur de conserver ces données ; \n\nLe droit de retirer votre consentement au traitement de vos informations personnelles à tout moment ; \n\nLe droit de demander à Mr Arthur de vous fournir vos informations personnelles et, si possible, de transmettre ces données directement à un autre contrôleur de données (le cas échéant) ; \n\nLe droit, en cas de litige concernant l'exactitude ou le traitement de vos informations personnelles, de demander une restriction sur le traitement ultérieur ; Et le droit de déposer une plainte auprès d'une autorité de protection des données ou de contrôle de l'Union européenne.\n\Le droit, en cas de litige concernant l'exactitude ou le traitement de vos informations personnelles, de demander une restriction sur le traitement ultérieur ; Et le droit de déposer une plainte auprès d'une autorité de protection des données ou de contrôle de l'Union européenne.\n\n11.2. Exercice des droits des personnes concernées : Vous pouvez nous faire part de votre désir de faire valoir l'un des droits décrits dans la présente politique de confidentialité en envoyant un courriel à contact@mrarthur.io, et nous répondrons dans le délai requis par la loi. Veuillez noter que nous pouvons vous demander de vérifier votre identité avant de donner suite à votre demande. Veuillez également noter que les lois et les cadres contractuels limitent l'exercice de ces droits relatifs aux données ; nous vous invitons à nous poser des questions à tout moment, et nous y répondrons comme décrit ci-dessus. \n\n11.3. Droit de retirer le consentement au traitement : Lorsque vous avez donné votre consentement au traitement de vos informations personnelles par Mr Arthur, vous pouvez retirer votre consentement à tout moment en envoyant une communication à Mr Arthur en précisant quel consentement vous retirez. Veuillez noter que le retrait de votre consentement n'affecte pas la légalité des activités de traitement fondées sur ce consentement avant son retrait. En outre, dans certaines juridictions, la loi applicable peut vous donner le droit de limiter la manière dont nous utilisons vos informations personnelles, en particulier lorsque : \n\nvous contestez l'exactitude de vos informations personnelles ; \n\nle traitement est illégal, et vous vous opposez à l'effacement de vos informations personnelles ; \n\nnous n'avons plus besoin de vos informations personnelles aux fins du traitement, mais vous avez besoin de ces informations pour l'établissement, l'exercice ou la défense de revendications légales ; \n\nOu vous vous êtes opposé au traitement et en attendant de vérifier si les motifs légitimes de Mr Arthur prévalent sur les vôtres.  \n\n11.4. Plaintes auprès des autorités de surveillance : Nous vous invitons à nous faire part de tout problème concernant nos activités de traitement des données ou la présente Politique de confidentialité, et nous vous répondrons dans les 30 jours suivant la réception de cette notification. Si vous considérez que notre traitement de vos informations personnelles enfreint les lois de l'Union européenne sur la protection des données, en particulier si vous êtes un résident de l'UE, vous avez le droit légal de déposer une plainte auprès d'une autorité de surveillance chargée de la protection des données. Vous pouvez le faire dans l'État membre de l'UE de votre résidence habituelle, de votre lieu de travail ou du lieu de l'infraction présumée. Par exemple, au Royaume-Uni, il s'agit de l'Information Commissioner's Office, et en Irlande, du Data Protection Commissioner.";
+
+"12. STORAGE AND TRANSFER OF YOUR PERSONAL INFORMATION" = "12. STOCKAGE ET TRANSFERT DE VOS INFORMATIONS PERSONNELLES";
+"The data that we collect from you will be processed and stored at a destination located in Europe. \n\nWe transfer data to destinations outside of the European Union as a necessary part of the performance of the Services, or with your consent, as applicable." = "Les données que nous recueillons auprès de vous seront traitées et stockées dans un lieu situé en Europe. \n\nNous transférons des données vers des destinations situées en dehors de l'Union européenne dans le cadre nécessaire de l'exécution des Services, ou avec votre consentement, selon le cas.";
+
+"13. RETENTION OF YOUR PERSONAL INFORMATION" = "13. CONSERVATION DE VOS INFORMATIONS PERSONNELLE";
+"We keep your personal data to enable your continued use of the Services, for as long as it is required to fulfill the relevant purposes described in this Privacy Policy, as may be required by law such as for tax and accounting purposes, or as otherwise communicated to you." = "Nous conservons vos données personnelles pour vous permettre de continuer à utiliser les services, aussi longtemps qu'elles sont nécessaires pour atteindre les objectifs pertinents décrits dans la présente politique de confidentialité, comme cela peut être exigé par la loi, par exemple à des fins fiscales et comptables, ou comme cela vous est communiqué par ailleurs.";
+
+"14. CHANGES TO PRIVACY POLICY" = "14. MODIFICATIONS DE LA POLITIQUE DE CONFIDENTIALITÉ";
+"We reserve the right to modify this Privacy Policy at any time. If we make material changes to this Privacy Policy, we will notify you by updating the date of this Privacy Policy and posting it on the Site. We may, and if required by law, will also provide notification of changes in another way that we believe is reasonably likely to reach you, such as via email (if you have an account where we have your contact information) or another manner through the Site. \n\nAny modifications to this Privacy Policy will be effective upon our posting the new terms and/or upon implementation of the new changes on the Sites (or as otherwise indicated at the time of posting). In all cases, your continued use of the Services after the posting of any modified Privacy Policy indicates your acceptance of the terms of the modified Privacy Policy. If you do not accept this Privacy Policy, you must discontinue use of the Services." = "Nous nous réservons le droit de modifier cette politique de confidentialité à tout moment. Si nous apportons des modifications importantes à cette politique de confidentialité, nous vous en informerons en mettant à jour la date de cette politique de confidentialité et en la publiant sur le site. Nous pouvons et, si la loi l'exige, nous fournirons également une notification des modifications d'une autre manière qui, selon nous, est raisonnablement susceptible de vous atteindre, par exemple par e-mail (si vous avez un compte où nous avons vos coordonnées) ou d'une autre manière par le biais du Site. \n\nToute modification de la présente Politique de confidentialité entrera en vigueur dès que nous publierons les nouvelles conditions et/ou dès la mise en œuvre des nouveaux changements sur les Sites (ou comme indiqué autrement au moment de la publication). Dans tous les cas, votre utilisation continue des services après la publication de toute politique de confidentialité modifiée indique que vous acceptez les conditions de la politique de confidentialité modifiée. Si vous n'acceptez pas cette politique de confidentialité, vous devez cesser d'utiliser les services.";
+
+"15. CONTACT US" = "15. CONTACTEZ-NOUS";
+"If you have any questions regarding this Privacy Policy, please contact us at contact@mrarthur.io or, by mail, to: Mr Arthur, Attn: Grégoire Thomas, 4 bis Rue Lamartine, 93310 Le Pré-Saint-Gervais Paris, France." = "Si vous avez des questions concernant la présente politique de confidentialité, veuillez nous contacter à l'adresse contact@mrarthur.io ou, par courrier, à l'adresse suivante : Mr Arthur, à l'attention de : Grégoire Thomas, 4 bis Rue Lamartine, 93310 Le Pré-Saint-Gervais Paris, France.";
+
+"ATTD_SCANNER_SIGNIN_WITH" = "";
+"ATTD_SCANNER_YOUR" = "VOTRE ";
+"ATTD_SCANNER_ACC_EMAIL" = "e-mail associé au compte";
+
+//AttendeeDeviceView
+"Devices" = "Les appareils";
+" DAILY GOAL" = " OBJECTIF QUOTIDIEN";
+
+//Subsciption View
+"Your subcription has expired or you haven't subscribed yet." = "Votre abonnement a expiré ou vous ne vous êtes pas encore inscrit.";
+"Please subscribe and start helping your child NOW!" = "Veuillez vous abonner et commencer à aider votre enfant MAINTENANT!";
+"Your subcription has expired or you haven't subscribed yet. Please subscribe and start helping your child NOW!" = "Votre abonnement a expiré ou vous ne vous êtes pas encore inscrit. Abonnez-vous et commencer à aider votre enfant MAINTENANT !";
+"UNINSTALL THE APP" = "DÉSINSTALLER";
+
+//Delete Account
+"Do you really want to delete your account?" = "Voulez-vous vraiment supprimer votre compte ?";
+"DELETE_ACCOUNT" = "SUPPRIMER";
+
+//App tab sceen
+"Don't miss it!" = "À ne pas manquer !";
+"Educational apps" = "Apps éducatives";
+"Sorry!" = "Oups !";
+"No apps available here." = "Aucune app disponible pour le moment.";
+"No media available here." = "Aucune vidéo disponible pour le moment.";
+
+//start screen
+"Optimize screen time, learn to play, monitor, protect from inappropriate content…" = "Limiter le temps d’écran, apprendre en s’amusant, superviser, protéger…";
+"ALREADY HAVE AN ACOUNT?" = "VOUS AVEZ DÉJÀ UN COMPTE ?";
+"Your child will have to spend time on educational apps…" = "Votre enfant va apprendre sur des apps éducatives...";
+"…to unlock entertainment time on their device." = "...pour débloquer du temps récréatif sur son téléphone.";
+
+//Block Screen
+"YOUR SUBSCRIPTION ENDED" = "Votre abonnement a expiré";
+//-OBS
+"Your child has made progress in setting goals with you and learning on engaging apps." = "Votre enfant a réalisé de beaux progrès grâce à son temps d'écran optimisé et les apps éducatives utilisées.";
+"To continue using our app," = "Souscrivez à un abonnement,";
+" please choose the paying plan that best fits your needs and budget." = " adapté à vos besoins afin de prolonger l'utilisation de notre app.";
+"Thank you for choosing us, we look forward to helping you and your children reach their goals." = "Notre équipe travaille au quotidien pour améliorer la vie numérique de nos enfants. Merci de votre confiance !";
+//-ATT
+"Congratulations, you've done a great job so far!" = "Félicitations, tu as accompli de grandes choses !";
+"To be able to continue your efforts and improve your knowledge, your parents must now take out a subscription." = "Afin de poursuivre tes efforts et apprendre toujours plus, tes parents doivent prendre un nouvel abonnement.";
+
+//MARK: For Assets
+"asset_splash_wallpaper" = "wallpaper_fr_splash";
+"asset_onboard_step_1" = "ic_fr_onboard_step_1";
+"asset_onboard_step_2" = "ic_fr_onboard_step_2";
+"asset_onboard_step_3" = "ic_fr_onboard_step_3";

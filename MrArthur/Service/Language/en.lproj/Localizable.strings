@@ -1,0 +1,957 @@
+/* 
+ Localizable.strings
+ MrArthur
+ 
+ Created by IPS-169 on 07/07/22.
+ 
+ */
+//OBS - SPLASH  - 1
+"Less screen time & better content" = "Less screen time & better content";
+
+//OBS - 1ST SCREEN – 1
+"Hello !" = "Hello!";
+"mr.arthur " = "mr.arthur ";
+"helps your children cut their screen time" = "helps your children cut their screen time.";
+"Teach your children to be more self-aware and responsible for their actions." = "Teach your children to be more self-aware and responsible for their actions.";
+"START" = "START";
+"Already have an account?" = "Already have an account?";
+"SIGN IN" = "SIGN IN";
+
+//OBS - ADD UP - PRIVACY – 1
+"Your family privacy matters" = "Your family privacy matters";
+"• Your personal data is only used to give you personalized coaching experience." = "• Your personal data is only used to give you personalized coaching experience.";
+"• We do not share your personal data to third parties." = "• We do not share your personal data to third parties.";
+"• Your data stays between you and us." = "• Your data stays between you and us.";
+"I agree to " = "I agree to ";
+"the terms of use " = "the terms of use";
+"privacy policy." = "privacy policy.";
+"Please accept terms & condition" = "Please accept terms & condition";
+"Privacy" = "Privacy";
+"APPLY" = "APPLY";
+
+//OBS - MANIFESTO – INTRO
+"Well done," = "Well done,";
+"you've done the hard part." = "you've done the hard part.";
+
+//OBS - MANIFESTO – 01
+"By not turning a blind eye to " = "By not turning a blind eye to ";
+"excessive screen time!" = "excessive screen time!";
+
+//OBS - MANIFESTO – 02
+"mr.arthur" = "mr.arthur";
+"helps your child maintain a healthy level of screen time. No more zombie children and especially" = "helps your child maintain a healthy level of screen time. No more zombie children and especially";
+" no \nmore arguments!"= " no \nmore arguments!";
+
+//OBS - MANIFESTO – 03
+"Healthy screen time " = "Healthy screen time ";
+"means less screen time" = "means less screen time";
+" and " = " and ";
+"better content" = "better content";
+"for your child." = " for your child.";
+
+//OBS - QT – intro
+"To help you, " = "To help you, ";
+" needs to ask you a few questions." = " needs to ask you a few questions.";
+"Please answer the questions with the child facing the biggest challenges." = "Please answer the questions with the child facing the biggest challenges.";
+
+"most problematic " = "most problematic ";
+"in mind." = "in mind.";
+"ESTIMATED TIME" = "ESTIMATED TIME";
+"3 min" = "3 min";
+
+//OBS - QT – CARTON 1
+"Two more minuets, and we are done!" = "Two more minuets, and we are done!";
+"mr.arthur's " = "mr.arthur's ";
+"help is personalized." = "help is personalized.";
+
+//Observer Manifesto - 7
+"will empower your child" = "will empower your child";
+" to take the first step" = " to take the first step.";
+
+//Observer Manifesto - 8
+"70% of children admit to spending too much time on their screens." = "70% of children admit to spending too much time on their screens.";
+"There’s still hope!" = "There’s still hope!";
+"But how does it work " = "But how does it work ";
+"in practice?" = "in practice?";
+
+//Observer Manifesto - 9
+"Your child will give you the " = "Your child will give you the ";
+"screen time " = "screen time ";
+"they’re willing to cut down to in %…" = "they’re willing to cut down to in %…";
+
+//Observer Manifesto - 10
+"mr.arthur\n" = "mr.arthur\n";
+"and its AI will help respond to this proposal." = "and its AI will help respond to this proposal.";
+
+//Observer Manifesto - 11
+"…and a % of" = "…and a % of";
+"OBS_MANIFEST_EDUCATIONTIME" = " educational screen time ";
+"they're willing to introduce in the remaining time." = "they're willing to introduce in the remaining time.";
+
+//Observer Manifesto - 12
+"AI initialisation" = "AI initialisation";
+"Analysing" = "Analysing";
+"your answers" =  "your answers";
+
+//Observer Manifesto - 13
+"Perfect !" = "Perfect !";
+"Sign up to save your answers!" = "Sign up to save your answers!";
+//"personalise your experience and assess your child." = "personalise your experience and assess your child.";
+
+//Manifesto Button
+"NEXT" = "NEXT";
+"LET'S DO THIS!" = "LET'S DO THIS!";
+"SIGN UP" = "SIGN UP";
+
+//Signup View
+"Sign up" = "Sign up";
+"Invalid e-mail format." = "Invalid e-mail format.";
+"Please enter your login e-mail address." = "Please enter your login e-mail address.";
+"Please enter your e-mail address again." = "Please enter your e-mail address again.";
+"E-MAIL" = "E-MAIL";
+"CONFIRM" = "CONFIRM";
+"Please Enter email" = "Please Enter email";
+"Please add proper email id" = "Please add proper email id";
+
+//Terms & Condition View
+"Terms of use & privacy policy" = "Terms of use & privacy policy";
+"ACCEPT ALL" = "ACCEPT ALL";
+
+//Validation View
+"Please enter the PIN sent to your address" = "Please enter the PIN sent to your address";
+"Incorrect PIN." = "Incorrect PIN.";
+"Please enter your PIN again." = "Please enter your PIN again.";
+"Invalid PIN." = "Invalid PIN.";
+"PIN" = "PIN";
+"I DIDN’T RECEIVE A PIN" = "I DIDN’T RECEIVE A PIN";
+"New Pin sent" = "New Pin sent";
+"Please enter validate code" = "Please enter validate code";
+"ACCESS SETTINGS" = "ACCESS SETTINGS";
+
+//Signin View
+"Sign in" = "Sign in";
+"Please provide an e-mail address." = "Please provide an e-mail address.";
+"SUBMIT" = "SUBMIT";
+"DD/MM/YY" = "DD/MM/YY";
+//Notification Policy
+"Help your child!" = "Help your child!";
+"Our program works 95% better with notifications." = "Our program works 95% better with notifications.";
+"We’ll let you know if your child plays along, if he needs help and when he achieves goals!" = "We’ll let you know if your child plays along, if he needs help and when he achieves goals!";
+"ENABLE NOTIFICATIONS" = "ENABLE NOTIFICATIONS";
+"MAYBE LATER" = "MAYBE LATER";
+"Privacy" = "Privacy";
+"Notifications" = "Notifications";
+
+//PerfectWellDone View
+"Let's do this!" = "Let's do this!";
+"With " = "With ";
+"mr.arthur," = "mr.arthur,";
+"we guide you through your first mediation every step of the way!" = "we guide you through your first mediation every step of the way!";
+
+//Addd Attendee
+"Child identity" = "Child identity";
+"FIRST NAME" = "FIRST NAME";
+"GIRL" = "GIRL";
+"BOY" = "BOY";
+"DATE OF BIRTH" = "DATE OF BIRTH";
+"Please select gender of child" = "Please select gender of child";
+"Please add child name" = "Please add child name";
+"Birthdate must be past day" = "Birthdate must be past day";
+"Please select birthdate of child" = "Please select birthdate of child";
+
+//Time Estimation
+"if your child doesn't use or own the device." = "if your child doesn't use or own the device.";
+"How much time per day does your child spend watching television?" = "How much time per day does your child spend watching television?";
+"How much time per day does your child spend in front of the game console?" = "How much time per day does your child spend in front of the game console?";
+"How much does your child spend on shared screens (Household television, tablet, computer, etc.)?" = "How much does your child spend on shared screens (Household television, tablet, computer, etc.)?";
+"How much time per day does your child spend on his own phone?" = "How much time per day does your child spend on his own phone?";
+"How much time per day does your child spend on educational apps?" = "How much time per day does your child spend on educational apps?";
+
+
+"DEVICE_OWNER" = "Device Owner";
+"Once your Child's user profile has been created, you'll need to install the " = "Once your Child's user profile has been created, you'll need to install the ";
+"app on your child's device to continue." = "app on your child's device to continue.";
+"Once your child's user profile has been created, please let him start and enjoy the App to send you a new screen time proposal." = "Once your child's user profile has been created, please let him start and enjoy the App to send you a new screen time proposal.";
+"mine as a parent" = "mine as a parent";
+"WHICH_DEVICE_QUESTION" = "Which phone are you currently using ?";
+
+//Gain Data Observer
+"sparks a love of learning in your child!" = "sparks a love of learning in your child!";
+"Based on your answers. With a 20% educational goal assumption (20% of remaining screen time after reduction)." = "Based on your answers. With a 20% educational goal assumption (20% of remaining screen time after reduction).";
+
+
+//Gain Total Time View
+"gives your child his real life back." = "gives your child his real life back.";
+"Based on yours answers. With a 20% screen time reduction assumption." = "Based on yours answers. With a 20% screen time reduction assumption.";
+
+//Observer Add UP finish
+"One more thing ;)" = "One more thing ;)";
+"Please make sure your Apple ID account is available and your Family Share feature activated." = "Please make sure your Apple ID account is available and your Family Share feature activated.";
+"Go to Settings on this device" = "Go to Settings on this device";
+"Tap your Apple account name" = "Tap your Apple account name";
+
+"Tap Family Sharing" = "Tap Family Sharing";
+"OBS_ADD_UP_RETURNTO_LBL" = "Return to ";
+
+//Device Scanner
+"Well done!" = "Well done!";
+"Now it’s time to install " = "Now it’s time to install ";
+"app on your child’s device. " = "app on your child’s device. ";
+"You can get " = "You can get ";
+"from the App Store or scan this code with the child’s device." = "from the App Store or scan this code with the child’s device.";
+
+
+//ObserverAddUpFinalSetUp
+"Perfect!" = "Perfect!";
+"See you on your child’s device to finish the set up. " = "See you on your child’s device to finish the set up. ";
+"You'll need to sign in with" = "You'll need to sign in with";
+" YOUR " = " YOUR ";
+"account email.\n\n" = "account email.\n\n";
+"\nYou can come back here when all is done." = "You can come back here when all is done.";
+"ALL IS DONE" = "ALL IS DONE";
+
+//Dashboard Observer
+"Usage report" = "Usage report";
+"AVERAGE SCREEN TIME PER DAY" = "AVERAGE SCREEN TIME PER DAY";
+"after goal" = "after goal";
+"before goal" = "before goal";
+"DAILY DEVICES" = "DAILY DEVICES";
+"CONSUMPTION ESTIMATIONS" = "CONSUMPTION ESTIMATIONS";
+"PUBLIC HEALTH RECOMMENDATIONS" = "PUBLIC HEALTH RECOMMENDATIONS";
+"BREAKDOWN OF ACTIVITIES PER DAY" = "BREAKDOWN OF ACTIVITIES PER DAY";
+"Dashboard" = "Dashboard";
+"01h00 / day" = "01h00 / day";
+"02h00 / day" = "02h00 / day";
+
+//AttendeeList View
+"Child device assignment" = "Child device assignment";
+"Select the child you want this device to be assigned, or create a new one." = "Select the child you want this device to be assigned, or create a new one.";
+"Add\nNEW CHILD" = "Add\nNEW CHILD";
+"Users" = "Users";
+
+//Observer Goal Summary
+"Goal summary" = "GOAL SUMMARY";
+"Reduce " = "Reduce ";
+"overall screen time" = "overall screen time";
+" by" = " by";
+"by " = "by ";
+"or " = "or ";
+" per day" = " per day";
+"Increase " = "Increase ";
+" educational screen time " = " educational screen time  ";
+"WHAT YOU GET OUT OF THIS" = "WHAT YOU GET OUT OF THIS";
+"HERE WE GO" = "HERE WE GO";
+"This first goal is pretty good! You should encourage this but try to convince" = "This first goal is pretty good! You should encourage this but try to convince";
+"to do a little more!" = "to do a little more!";
+"REFUSE" = "REFUSE";
+"ACCEPT" = "ACCEPT";
+
+//ObserverAccountInDetails
+"ACCOUNT ID" = "ACCOUNT ID";
+"CHILDREN AND CONNECTED DEVICES" = "CHILDREN AND CONNECTED DEVICES";
+//"3 children \n5 devices" = "3 children \n5 devices";
+"children" = "children\n";
+"devices" = "devices";
+"LOG OUT" = "LOG OUT";
+"Do you really want to log out?" = "Do you really want to log out?";
+"CANCEL" = "CANCEL";
+"Account" = "Account";
+"Cancel_Head" = "Cancel";
+//Observer Account Seetings
+"You’ll lose all their data, including their screen time by deleting your child’s profile." = "You’ll lose all their data, including their screen time by deleting your child’s profile.";
+"Delete child’s profile" = " Delete child’s profile";
+"DELETE CHILD’S PROFILE" = "DELETE CHILD’S PROFILE";
+"By making this device your child’s device, you will lock the device." = "By making this device your child’s device, you will lock the device.";
+"Your child can then use " = "Your child can then use ";
+"mr.arthur\n" = "mr.arthur\n";
+"DEVICE’S NAME" = "DEVICE’S NAME";
+"Please name the child’s device." = "Please name the child’s device.";
+"Make this device your child’s" = "Make this device your child’s";
+"USERNAME’S iPHONE - smartphone" = "USERNAME’S iPHONE - smartphone";
+"Done" = "DONE";
+"Personal informations" = " Personal informations";
+"PERSONAL INFORMATIONS" = "PERSONAL INFORMATIONS";
+"MAKE THIS DEVICE MY CHILD’S DEVICE" = "MAKE THIS DEVICE MY CHILD’S DEVICE";
+"Child’s profile" = "Child’s profile";
+"PRIVACY POLICY" = "PRIVACY POLICY";
+"ACCOUNT" = "ACCOUNT";
+"More" = "More";
+"REMOVE THIS CHILD’S PROFILE" = "REMOVE THIS CHILD’S PROFILE";
+"DEVICES" = "DEVICES";
+
+
+//Medias
+"Medias" = "Medias";
+"Featured " = "Featured ";
+"this month" = "this month";
+"Enjoy the smart media content of the month! It won’t cost you any entertainment time credit!" = "Enjoy the smart media content of the month! It won’t cost you any entertainment time credit!";
+
+//Observer Benefits Details
+"Collect them all!" = "Collect them all!";
+"Collect & share with your loved ones your " = "Collect & share with your loved ones your ";
+"performance and benefits!" = "performance and benefits!";
+"Benefits" = "Benefits";
+
+
+//ObserverHowitworks
+"How it works?" = "How it works?";
+
+//AttendeeMaifestoFooterView
+"LET'S GO!" = "LET'S GO!";
+"CONTINUE" = "CONTINUE";
+
+//AttendeeEducationalAppInstallationView
+"Last step!" = "Last step!";
+"Please install those educational apps we have chosen for you. The selection was done according to 3 criteria:" = "Please install those educational apps we have chosen for you. The selection was done according to 3 criteria:";
+"• Educational content quality" = "• Educational content quality";
+"• Enough free content" = "• Enough free content";
+"• Fun and engaging" = "• Fun and engaging";
+
+
+//AttendeeAppCategory
+//"Carefully pick the following categories." = "Carefully pick the following categories.";
+"Carefully pick " = "Carefully pick ";
+" the following categories." = " the following categories.";
+"only" = "only";
+" Entertainment " = "Entertainment";
+" Games " = "Games";
+" Social " = " Social ";
+" Education " = " Education ";
+"PICK CATEGORIES" = "PICK CATEGORIES";
+" All apps & Categories " = " All apps & Categories ";
+"App categories picking" = "App categories picking";
+"Skip" = "SKIP";
+"For " = "For ";
+"App Picking" = "App Picking";
+"OK, I GET IT!" = "OK, I GET IT!";
+"You made a mistake!\n\n You need to pick the\n apps to block NOT a\n category ;)" = "You made a mistake!\n You need to pick the apps to block\n NOT a category ;)";
+"PICK APPS" = "PICK APPS";
+"Tap the right arrow of the « Utilities » category and pick those apps if they show up. We will block them." = "Tap the right arrow of the « Utilities » category and pick those apps if they show up. We will block them.";
+"Opera\n\n" = "Opera\n\n";
+"Firefox " = "Firefox ";
+"NOT Chrome " = "NOT Chrome ";
+"Safari " = "Safari ";
+"to work, your child has to use only " = "to work, your child has to use only ";
+"For " = "For ";
+
+
+//AttendeeRestPeriodSelectionView
+"Make your choice!" = "Make your choice!";
+"All apps and sites will be blocked during the rest period." = "All apps and sites will be blocked during the rest period.";
+"Rest period" = "Rest period";
+"No rest period" = "No rest period";
+"CHOOSE" = "CHOOSE";
+
+///Screentimesetup
+"Choose your protection !" = "Choose your protection !";
+"To protect your child, " = "To protect your child, ";
+" offers 3 different levels of content filtering." = " offers 3 different levels of content filtering.";
+"To protect your child, mr.arthur offers 3 different levels of content filtering." = "To protect your child, mr.arthur offers 3 different levels of content filtering.";
+"Content filtering selection" = "Content filtering selection";
+"Sign in with your parent or guardian Apple account. This is requiered to pair the devices and enable parental control." = "Sign in with your parent or guardian Apple account. This is requiered to pair the devices and enable parental control.";
+"SIGN IN WITH PARENT’S APPLE ID" = "SIGN IN WITH PARENT’S APPLE ID";
+"Pairing devices" = "Pairing devices";
+
+//AttendeeFamilySharingSetUp
+"Set up family sharing & invite your child" = "Set up family sharing & invite your child";
+"Tap your Apple account name" = "Tap your Apple account name";
+"Create your Apple ID account if you haven’t yet" = "Create your Apple ID account if you haven’t yet";
+
+"Tap Add Member" = "Tap Add Member";
+"Follow the instructions" = "Follow the instructions";
+"Activate " = "Activate ";
+" “Share across devices” " = " “Share across devices” ";
+"in the screen time menu" = "in the screen time menu";
+"ATTENDEE_SETTINGS_RETURN_TO" = "Return to ";
+"Pairing setup" = "Pairing setup";
+"Complete your family setup" = "Complete your family setup";
+
+///AttendeePairingSetUpView
+"The end is in sight!" = "The end is in sight!";
+"To start helping your child, complete the next steps. After that we are done!" = "To start helping your child, complete the next steps. After that we are done!";
+"ATTENDEE_SETTINGS_SHARE_INVITE" = "Set up family sharing & invite your child";
+"Educational app installation" = "Educational app installation";
+"EDUCATIONAL APP INSTALLATION" = "EDUCATIONAL APP INSTALLATION";
+"APP CATEGORIES PICKING" = "APP CATEGORIES PICKING";
+"CONTENT FILTERING SELECTION" = "CONTENT FILTERING SELECTION";
+
+
+//AttendeeMoreView
+"Do you really \nwant to log out?" = "Do you really \nwant to log out?";
+"ON Logout" = "ON Logout";
+
+//AttendeeMessageView
+//"Receive notifications, tips, and exchange information with your family, thanks to mr.arthur’s unique messaging system." = "Receive notifications, tips, and exchange information with your family, thanks to mr.arthur’s unique messaging system.";
+//"Messages" = "Messages";
+
+//CreateGoalView
+"Move the cursor forward to" = "Move the cursor forward to";
+" your screen time." = "  your screen time.  ";
+"reduce " = "reduce ";
+"Total screen time\nper day" = "Total screen time\nper day";
+"per year" = "per year";
+"bike trips" = "bike trips";
+"with friends" = "with friends";
+"educational screen time." = "educational screen time.";
+"IMPROVE" = "IMPROVE";
+
+//CreateGoalEducationView
+"Educational screen\ntime per day" = "Educational screen\ntime per day";
+"14 very\nimpressed friends" = "14 very\nimpressed friends";
+"1 new language" = "1 new language";
+"learned in " = "learned in ";
+" months" = " months";
+"Increase your" = "Increase your";
+
+//ModifyGoalView
+"Total\nscreen\ntime" = "Total\nscreen\ntime";
+"Educational\nscreen\ntime" = "Educational\nscreen\ntime";
+"Modify goal" = "Modify goal";
+
+//FinalGoalView
+"You would like to reduce " = "You would like to reduce ";
+"your total screen time" = " your total screen time ";
+"per day. This means " = "per day. This means ";
+" per day. This means you will have " = " per day. This means you will have ";
+"you will have " = "you will have ";
+"of screen time per day." = "of screen time per day.";
+"You’ve also increased you " = "You’ve also increased you ";
+"educational screen time" = "educational screen time";
+"to" = "to";
+"This means you will " = "This means you will ";
+" This means you will spend " = " This means you will spend ";
+"Spend " = "Spend ";
+" on smart time per day" = " on smart time per day.";
+//"Your first goal is OK. \nBut I won’t be able to promise \nyou that your parents \nwill approve it!" = "Your first goal is OK. \nBut I won’t be able to promise \nyou that your parents \nwill approve it!";
+"SEND" = "SEND";
+
+//GoalSummaryView
+"GOAL" = "GOAL";
+"STATUS : " = "STATUS : ";
+"currently being reviewed" = "currently being reviewed";
+"SUMMARY" = "SUMMARY";
+
+//ModifyGoalView
+"Current goal" = "Current goal";
+"RESET" = "RESET";
+
+//ConciliationFinalGoalView
+"Congratulations!" = "Congratulations!";
+"The awareness phase is now done; your did great!" = "The awareness phase is now done; your did great!";
+"See you in 2022" = "See you in 2022";
+"for a free trial of the app’s final version." = "for a free trial of the app’s final version.";
+
+//attendee.dashboard.view
+"Hello," = "Hello,";
+
+//AttendeeHowItsWork
+"GOAL SUMMARY" = "GOAL SUMMARY";
+"each day at 6 am you start with an “advance” of " = "each day at 6 am you start with an “advance” of ";
+"minimum 5 minutes " = "minimum 5 minutes ";
+"of entertainment time." = "of entertainment time.";
+"You start with " = "You start with ";
+"2 free " = "2 (free) HOURS ";
+"hours " = "hours ";
+"of entertainment as a gift for your engagement" = "of entertainment as a gift for your engagement";
+"Look at your dashboard to know where you’re at and see goals and special bonuses to win !" = "Look at your dashboard to know where you’re at and see goals and special bonuses to win !";
+"At the end of the day if you still have entertainment time left you will have an " = "At the end of the day if you still have entertainment time left you will have an ";
+"advance of 50% " = "advance of 50% ";
+"of that time to start the next day !" = "of that time to start the next day !";
+"You have to spend " = "You have to spend ";
+"a minimum of 5 minutes " = "a minimum of 5 minutes ";
+"on educational apps otherwise it won’t be credited, we need you focused !" = "on educational apps otherwise it won’t be credited, we need you focused !";
+"Just spend some time on those apps and you " = "Just spend some time on those apps and you ";
+"unlock entertainment " = "unlock entertainment ";
+"in real time." = "in real time.";
+
+"Your parents have installed " = "Your parents have installed ";
+"fun and engaging " = "fun and engaging ";
+"educational apps " = "educational apps ";
+"on your phone/tablet." = "on your phone/tablet.";
+
+"Let me explain you " = "Let me explain you ";
+"how the " = "how the ";
+"mechanics " = "mechanics ";
+"works." = "works.";
+"Congrats kid" = "Congrats kid";
+"you just avoided a nightmare. No parent’s tyrannie, everything will be fine now…" = "you just avoided a nightmare. No parent’s tyrannie, everything will be fine now…";
+"Look at your dashboard to follow your child’s progress." = "Look at your dashboard to follow your child’s progress.";
+//AttendeeManifesto
+"You can analyse your screen time and create your first goal!" = "You can analyse your screen time and create your first goal!";
+"Great! " = "Great! ";
+"Keep up playing along and " = "Keep up playing along and ";
+"you'll have control over your " = "you'll have control over your ";
+"screen time! " = "screen time! ";
+"So,\n are you on board?" = "So,\n are you on board?";
+"Of course, you can also spend the free time you earn with friends!" = "Of course, you can also spend the free time you earn with friends!";
+"You’re going to " = "You’re going to ";
+"reduce your screen time " = "reduce your screen time";
+" and " = " and ";
+"introduce more educational time." = "introduce more educational time.";
+"is on your side! First, we analyse your screen time usage, and then we make a sensible proposal to your parents!" = "is on your side! \nFirst, we analyse \nyour screen time usage, \nand then we make \na sensible proposal \nto your parents!";
+"will help you suggest a more reasonable screen time to your parents." = "will help you suggest a more reasonable screen time to your parents.";
+"Don’t worry; your devices aren’t going anywhere ;)" = "Don’t worry; your devices aren’t going anywhere ;)";
+"To avoid living hell and complete parental control, " = "To avoid living hell and complete parental control, ";
+"you must make the first move " = "you must make the first move ";
+"and challenge yourself!" = "and challenge yourself!";
+"also wants\n you to make the most\n of digital content\n to stay informed and\n learn new things." = "also wants\n you to make the most\n of digital content\n to stay informed and\n learn new things.";
+"mr.arthur is here to help you. " = "mr.arthur is here to help you. ";
+"He’ll do everything he can to stop your parents from taking away your phone and screens." = "He’ll do everything he can to stop your parents from taking away your phone and screens.";
+
+"mr.arthur !" = "mr.arthur !";
+"Hi," = "Hi,";
+"so you‘re the one that wants to take charge of your digital life? It’s about time!" = "so you‘re the one that wants to take charge of your digital life? It’s about time!";
+"Follow me, and I’ll introduce you to " = "Follow me, and I’ll introduce you to ";
+"mr.arthur !" = "mr.arthur !";
+
+//AttendeeAddupview
+"Congrats!" = "Congrats!";
+"Your part is over for now, you can give your child his phone back and ask him to follow the onboarding !" = "Your part is over for now, you can give your child his phone back and ask him to follow the onboarding !";
+"If your child has another phone or tablet you need to install " = "If your child has another phone or tablet you need to install ";
+", the setup will be faster!" = ", the setup will be faster!";
+"Device Name" = "Device Name";
+"Name your child's device" = "Name your child's device";
+"DONE" = "DONE";
+"Time estimate" = "Time estimate";
+"How much time per day does your child spend on his own tablet?" = "How much time per day does your child spend on his own tablet?";
+"OK" = "OK";
+
+//CustomView
+"Back" = "Back";
+"You have accepted the goal! " = "You have accepted the goal! ";
+"Your child can start achieving it, and you can follow his progress." = "Your child can start achieving it, and you can follow his progress.";
+"SEE MORE" = "SEE MORE";
+"The goal is on its way!" = "The goal is on its way!";
+"Now it’s your turn to consider the proposal and decide whether you agree with it or not." = "Now it’s your turn to consider the proposal and decide whether you agree with it or not.";
+"SEE CHILD’S GOAL" = "SEE CHILD’S GOAL";
+"You have refused your child’s goal! " = "You have refused your child’s goal! ";
+"It didn’t go through, but we’re very close. Your child will be notified about your refusal. The new improved goal will show up here." = "It didn’t go through, but we’re very close. Your child will be notified about your refusal. The new improved goal will show up here.";
+"Web View" = "Web View";
+"Install App" = "Install App";
+"Share" = "Share";
+"See on the App store" = "See on the App store";
+"Strong level" = "Strong level";
+"- downtime period (preset 21h-7h can be modified)" = "- downtime period (preset 21h-7h can be modified)";
+"- explicit not allowed" = "- explicit not allowed";
+"+ tv movie all public apps 4+" = "+ tv movie all public apps 4+";
+"- adult content blocked" = "- adult content blocked";
+"Medium level" = "Medium level";
+"- downtime period (preset 22h-6h can me modified)" = "- downtime period (preset 22h-6h can me modified)";
+"- explicit not allowed " = "- explicit not allowed ";
+"+ tv /movie -10, app 9+" = "+ tv /movie -10, app 9+";
+"- adult content blocked" = "- adult content blocked";
+"recommanded" = "recommanded";
+"Low level" = "Low level";
+" + no downtime period" = "+ no downtime period";
+"+ explicit music, book, web allowed" = "+ explicit music, book, web allowed";
+" + TV show movies and apps 12+" = " + TV show movies and apps 12+";
+"USERNAME" = "USERNAME";
+"SMART ONES GAIN TIME!" = "SMART ONES GAIN TIME!";
+"Spend" = "Spend";
+"more" = "more TIME";
+"to unlock" = "to unlock";
+" of entertainment time." = " of entertainment time.";
+"Each "= "Each ";
+" unlock" = " unlock";
+"you can unlock" = "you can unlock";
+"Entertainment time left" = "Entertainment time left";
+"Entertainment time spent" = "Entertainment time spent";
+
+"USAGE REPORT" = "USAGE REPORT";
+"Average screen time per day" = "Average screen time per day";
+
+"Message" = "Message";
+"Medias" = "Medias";
+"AUTO" = "AUTO";
+"You have 24 hours " = "You have 24 hours ";
+"to provide " = "to provide ";
+"your parents with a goal." = "your parents with a goal.";
+"CREATE MY GOAL" = "CREATE MY GOAL";
+"Your parents have refused your goal!" = "Your parents have refused your goal!";
+"It didn’t go through, but we’re very close. All you need to do is reduce your screen time a little more…" = "It didn’t go through, but we’re very close. All you need to do is reduce your screen time a little more…";
+"I CAN DO BETTER" = "I CAN DO BETTER";
+"Your parents have confirmed your goal!" = "Your parents have confirmed your goal!";
+"You should be very proud of yourself because setting goals is already an achievement." = "You should be very proud of yourself because setting goals is already an achievement.";
+"LET’S GET STARTED!" = "LET’S GET STARTED!";
+"You have 24 hours to provide" = "You have 24 hours to provide";
+"Congratulations" = "Congratulations";
+"You’ve just sent your parents your first goal. It’s time for them to review your proposal. They’ll send you their answer here!" = "You’ve just sent your parents your first goal. It’s time for them to review your proposal. They’ll send you their answer here!";
+"SEE MY GOAL" = "SEE MY GOAL";
+"comics" = "comics";
+"per year" = "per year";
+"miles/\nbike rides" = "miles\nbike rides";
+"bike trips" = "bike trips";
+"afternoons" = "afternoons";
+"with friends" = "with friends";
+"Total devices" = "Total devices";
+"CUSTOM_SMARTPHONE" = "Smartphone";
+"Tablet" = "Tablet";
+"Total" = "Total";
+"Set the cursor to " = "Set the cursor to ";
+"if your child doesn't use or own the device." = "if your child doesn't use or own the device.";
+"Select" = "Select";
+"you have to install the application\n to your child device first" = "you have to install the application\n to your child device first";
+
+"Strong" = "Strong";
+"BEST UNDER 7 Y.O." = "BEST UNDER 7 Y.O.";
+"Medium" = "Medium";
+"BEST FOR 7 TO 12 Y.O." = "BEST FOR 7 TO 12 Y.O.";
+"Low" = "Low";
+"BEST FOR 12 TO 17 Y.O." = "BEST FOR 12 TO 17 Y.O.";
+"No content filtering" = "No content filtering";
+
+"• All content allowed (Apps & Media)." = "• All content allowed (Apps & Media).";
+"• explicit not allowed" = "• explicit not allowed";
+"• TV - G / Movie - G" = "• TV - G / Movie - G";
+"• adult content blocked" = "• adult content blocked";
+"• app 9+ (app install upon request)" = "• app 9+ (app install upon request)";
+"• no social media" = "• no social media";
+"• TV - PG / Movie - PG" = "• TV - PG / Movie - PG";
+"• explicit music, book, web allowed" = "• explicit music, book, web allowed";
+"• TV - 14  / Movie - R" = "• TV - 14  / Movie - R";
+"• app 17+ (app install upon request)" = "• app 17+ (app install upon request)";
+"• social media compatible" = "• social media compatible";
+
+
+//DeleteObserverProfile
+"Deleting your account will permanently erase all your children’s data and registered devices." = "Deleting your account will permanently erase all your children’s data and registered devices.";
+"You have to delete the account on each devices you have registered." = "You have to delete the account on each devices you have registered.";
+"ACCOUNT IS DELETED" = "ACCOUNT IS DELETED";
+"DELETE MY ACCOUNT" = "DELETE MY ACCOUNT";
+"Delete my account " = "Delete my account";
+
+//Observer goal summary
+"It’s just not enough... your child can do better" = "It’s just not enough... your child can do better";
+"Not bad but not great, maybe a good start ? Or you can refuse and ask him to do a little better" = "Not bad for a start but it could be better maybe?";
+"Nice, your child did good, you can accept this goal" = "Nice, your child did good, you can accept this goal";
+"Great, that’s a terrific goal, you should proudly accept it !" = "Great, that’s a terrific goal, you should proudly accept it !";
+"That’s amazing, your child is ready to make huge efforts, you can be really proud !" = "That’s amazing, your child is ready to make huge efforts, you can be really proud !";
+"You can do better! Believe me, you will be proud of yourself." = "You can do better! Believe me, you will be proud of yourself.";
+
+//ObserverMoreMainView
+"ADD NEW CHILD" = "ADD NEW CHILD";
+"PRIVACY POLICY" = "PRIVACY POLICY";
+"Privacy policy" = "Privacy policy";
+"FREQUENT QUESTIONS" = "FREQUENT QUESTIONS";
+"SETTINGS" = "SETTINGS";
+
+//ChartTimeView
+"Total screen time" = "Total screen time";
+"Educational screen time" = "Educational screen time";
+"Free time" = "Free time";
+"School time" = "School time";
+"None" = "None";
+
+//OBSReceivedGaolCardView
+"Your child has" = "Your child has";
+" 24 hours " = " 24 hours ";
+"to send you his goal. Make sure to follow up! You’ll be notified as your joint efforts progress." = "to send you his goal. Make sure to follow up! You’ll be notified as your joint efforts progress.";
+"to send you his goal. Make sure to follow up!" = "to send you his goal. Make sure to follow up!";
+"You’ll be notified as your joint efforts progress." = "You’ll be notified as your joint efforts progress.";
+
+//Question_Parent.json
+// Question - 1
+"What is your main goal for your child?" = "What is your main goal for your child?";
+//Answer
+"Less social networking" = "Less social networking";
+"More knowledge and open-mindedness" = "More knowledge and open-mindedness";
+"Less screen time" = "Less screen time";
+"More and better-quality content" = "More and better-quality content";
+
+// Question - 2
+"Who are  you to your child?"= "Who are  you to your child?";
+
+//Answer
+"Mother" = "Mother";
+"Father" = "Father";
+"Grandmother" = "Grandmother";
+"Grandfather" = "Grandfather";
+"Other" = "Other";
+
+// Question - 3
+"Do you often argue over screen time?" = "Do you often argue over screen time?";
+//Answer
+"Yes, everyday" = "Yes, everyday";
+"Yes, atleast once a week" = "Yes, atleast once a week";
+"No, rarely" = "No, rarely";
+"Not at all" = "Not at all";
+
+// Question - 4
+"Do you use parental control Apps?" = "Do you use parental control Apps?";
+//Answer
+"Yes" = "Yes";
+"No" = "No";
+
+// Question - 5
+"If yes, are you satisfied with these Apps?" = "If yes, are you satisfied with these Apps?";
+//Answer
+"Yes" = "Yes";
+"No" = "No";
+
+// Question - 6
+"How do you see your child's relationship with screens?" = "How do you see your child's relationship with screens?";
+//Answer
+"Very problematic" = "Very problematic";
+"Problematic" = "Problematic";
+"Not very problematic" = "Not very problematic";
+"Not at all problematic" = "Not at all problematic";
+
+// Question - 7
+"Do you feel guilty?" = "Do you feel guilty?";
+//Answer
+"No, not at all" = "No, not at all";
+"No, not really" = "No, not really";
+"Yes, a little" = "Yes, a little";
+"Yes, very much so" = "Yes, very much so";
+
+// Question - 8
+"Is your child aware that his screen time is an issue?" = "Is your child aware that his screen time is an issue?";
+//Answer
+"Yes, few" = "Yes, few";
+"Yes, very much so" = "Yes, very much so";
+
+// Question - 9
+"Which device causes the most problems?" = "Which device causes the most problems?";
+//Answer
+"Smartphone" = "Smartphone";
+"Tablet" = "Tablet";
+"Computer" = "Computer";
+"TV" = "TV";
+"Video game console" = "Video game console";
+
+// Question - 10
+"Is there another problematic device?" = "Is there another problematic device?";
+//Answer
+"No" = "No";
+"Smartphone" = "Smartphone";
+"Tablet" = "Tablet";
+"Computer" = "Computer";
+"TV" = "TV";
+"Video game console" = "Video game console";
+
+// Question - 11
+"How would you rate your screen time and particularly on your telephone?" = "How would you rate your screen time and particularly on your telephone?";
+//Answer
+"Perfectly healthy" = "Perfectly healthy";
+"Quite healthy" = "Quite healthy";
+"A bit excessive" = "A bit excessive";
+"Too much" = "Too much";
+"I’m not sure" = "I’m not sure";
+
+// Question - 12
+"Which telephone are you currently using?" = "Which telephone are you currently using?";
+//Answer
+"Mine as a parent" = "Mine as a parent";
+"My child’s" = "My child’s";
+
+//Question_Attendee.json
+// Question - 1
+"Do you feel that you spend too much time on screens?" = "Do you feel that you spend too much time on screens?";
+//Answer
+"Yes, too much" = "Yes, too much";
+
+// Question - 2
+"Which device do you think causes the most problems?" = "Which device do you think causes the most problems?";
+//Answer
+"Smartphone" = "Smartphone";
+"Tablet" = "Tablet";
+"Computer" = "Computer";
+"TV" = "TV";
+"Video game console" = "Video game console";
+
+// Question - 3
+"Is there another problematic device?" = "Is there another problematic device?";
+//Answer
+"No" = "No";
+"Smartphone" = "Smartphone";
+"Tablet" = "Tablet";
+"TV" = "TV";
+"Video game console" = "Video game console";
+
+// Question - 4
+"Do you often argue with your parents over screen time?" = "Do you often argue with your parents over screen time?";
+//Answer
+"Yes" = "Yes";
+"No" = "No";
+
+// Question - 5
+"Are you prepared for your parents to limit your screen time without asking you?" = "Are you prepared for your parents to limit your screen time without asking you?";
+//Answer
+"Yes" = "Yes";
+"No" = "No";
+
+// Question - 6
+"Would you prefer to be asked so that you can set your own screen time?" = "Would you prefer to be asked so that you can set your own screen time?";
+//Answer
+"Yes" = "Yes";
+"No" = "No";
+
+// Question - 7
+"Do you think it’s possible to learn while having fun?" = "Do you think it’s possible to learn while having fun?";
+//Answer
+"Yes" = "Yes";
+"No" = "No";
+
+// Question - 8
+"Would you be willing to spend some time on fun educational Apps to gain entertainment time and more freedom?" = "Would you be willing to spend some time on fun educational Apps to gain entertainment time and more freedom?";
+//Answer
+"Yes, definitely" = "Yes, definitely";
+"Yes, why not?" = "Yes, why not?";
+
+//CreateAttendeeGoal
+"It’s just not enough... your parents will never accept this !" = "It’s just not enough... your parents will never accept this !";
+"Not bad, but probably not enough for your parents, you can do better !" = "Not bad, but probably not enough for your parents, you can do better !";
+"Nice, you are getting there, your parents might accept your goal !" = "Nice, you are getting there, your parents might accept your goal !";
+"Great, that’s a terrific goal, I bet your parents will proudly accept it !" = "Great, that’s a terrific goal, I bet your parents will proudly accept it !";
+"Wow that’s amazing, you really want to change your life for the best, your parents are going to be so proud of you !" = "Wow that’s amazing, you really want to change your life for the best, your parents are going to be so proud of you !";
+
+"FAQ_URL" = "https://mrarthur.io/en/home-english/#faq";
+
+//Family control
+"Sorry we might have a problem on our side" = "Sorry we might have a problem on our side";
+"A restriction prevents your app from using Family Controls on this device. \n\nMost probable cause: You are not on your child’s device, or his Apple ID account is not a child account (his age has to be set under 18)" = "A restriction prevents your app from using Family Controls on this device. \n\nMost probable cause: You are not on your child’s device, or his Apple ID account is not a child account (his age has to be set under 18)";
+"The device isn't signed into a valid Apple ID account. \n\nPlease check you're using the right Apple ID account in your device's settings." = "The device isn't signed into a valid Apple ID account. \n\nPlease check you're using the right Apple ID account in your device's settings.";
+"You seem to be already using a parental control app or Apple Screen Time. You can't use several parental control apps at the same time. \n\nPlease turn off other apps or Apple Screen Time in your devices settings." = "You seem to be already using a parental control app or Apple Screen Time. You can't use several parental control apps at the same time. \n\nPlease turn off other apps or Apple Screen Time in your devices settings.";
+"Please retry to pair devices." = "Please retry to pair devices.";
+"Sorry but you seem to be offline. \n\nPlease check your network connexion and retry" = "Sorry but you seem to be offline. \n\nPlease check your network connexion and retry";
+
+
+
+//Educational Benefits
+"At this pace,\n" = "At this pace,";
+"will learn \na new language \nin" = "will learn \na new language \nin";
+"days!" = "days!";
+"Mr Arthur Collectable Cards! \nhave a look at what I discovered thanks to Mr Arthur App!" = "Mr Arthur Collectable Cards! \nhave a look at what I discovered thanks to Mr Arthur App!";
+
+//Time Saved Benefits
+"hours of real life\n" = "of real life\n";
+"back for" = "back for";
+"More family time or more time with friends !" = "More family time or more time with friends !";
+
+//QuestionDataProcessingView
+"Personalization" = "Personalization";
+"of your program" = "of your program";
+
+//ObserverDashboardUserView
+"Total time saved" = "Total time saved";
+"today" = "today";
+"7 days" = "7 days";
+"30 days" = "30 days";
+"Last 7 days" = "Last 7 days";
+"Last 30 days" = "Last 30 days";
+"Educational time spent" = "Educational time spent";
+"EDUCATIONAL\nPROFIT" = "EDUCATIONAL\nPROFIT";
+"FAMILY TIME\nSAVED" = "FAMILY TIME\nSAVED";
+"PERSONNAL\nPROFIT" = "PERSONNAL\nPROFIT";
+
+//AttendeeSettingsView
+"Settings" = "Settings";
+"Only your parents are allowed to change your settings.\nPlease ask them to achieve this task." = "Only your parents are allowed to change your settings.\nPlease ask them to achieve this task.";
+"OK" = "OK";
+
+
+//PrivacyPolicyView
+"YOUR PRIVACY RIGHTS" = "YOUR PRIVACY RIGHTS";
+"Date of last revision: " = "Date of last revision: ";
+"25 October 2022" = "25 October 2022";
+"This Privacy Policy describes what information Mr Arthur (“mrarthur,” “we,” “our,” or “us”) may collect and how we use such information when you visit or use our website at https://mrarthur.io (the “Site”) and/or our applications, including those for use on mobile devices, tablets, personal computers, and any other devices that connect to the internet. The Site and Mr Arthur Applications are collectively referred to herein as the “Services. \n\nBy using the Services, you consent to the collection, use, and sharing of your and your children’s information by Mr Arthur in accordance with this Privacy Policy and consent to the Terms of Use and End User License Agreement, which are incorporated herein by reference. For users in the United States, the term “children,” as used herein, refers to minors under the age of 13. For users outside of the United States, “children” refers to those under the age of digital majority. For additional information about our practices regarding children’s personal information, please see Section 1.1.1 (Children’s Personal Information) and Section 5 (Children’s Privacy Rights) below. \n\nIt is important for users of the Services to read the Privacy Policy carefully. The Privacy Policy may change over time in coordination with new or different services that we may provide in the future, or for other reasons. We have provided a “Last Revised Date” at the top of the Privacy Policy, which reflects the date that this Privacy Policy was most recently updated so that users can be aware of the Privacy Policy in effect at all times. We encourage all users to occasionally refer to this Privacy Policy so that they can remain aware of our current privacy practices." = "This Privacy Policy describes what information Mr Arthur (“mrarthur,” “we,” “our,” or “us”) may collect and how we use such information when you visit or use our website at https://mrarthur.io (the “Site”) and/or our applications, including those for use on mobile devices, tablets, personal computers, and any other devices that connect to the internet. The Site and Mr Arthur Applications are collectively referred to herein as the “Services. \n\nBy using the Services, you consent to the collection, use, and sharing of your and your children’s information by Mr Arthur in accordance with this Privacy Policy and consent to the Terms of Use and End User License Agreement, which are incorporated herein by reference. For users in the United States, the term “children,” as used herein, refers to minors under the age of 13. For users outside of the United States, “children” refers to those under the age of digital majority. For additional information about our practices regarding children’s personal information, please see Section 1.1.1 (Children’s Personal Information) and Section 5 (Children’s Privacy Rights) below. \n\nIt is important for users of the Services to read the Privacy Policy carefully. The Privacy Policy may change over time in coordination with new or different services that we may provide in the future, or for other reasons. We have provided a “Last Revised Date” at the top of the Privacy Policy, which reflects the date that this Privacy Policy was most recently updated so that users can be aware of the Privacy Policy in effect at all times. We encourage all users to occasionally refer to this Privacy Policy so that they can remain aware of our current privacy practices.";
+
+"1. INFORMATION WE COLLECT" = "1. INFORMATION WE COLLECT";
+"1.1. Personal Information: Mr Arthur collects “Personal Information” from you at various times and places on the Site and Mr Arthur applications. Personal Information means information relating to a particular individual, such as the individual’s name, postal address, email address, and telephone number. Personal Information also includes your “Children’s Personal Information,” as defined below in Section 1.1.1. \n\n1.1.1. Children’s Personal Information: With your consent, Mr Arthur may collect your “Children’s Personal Information.” Children’s Personal Information may include information you voluntarily submit to us such as your child’s first, middle and last name, date of birth, age, gender, and profile photo, or it may include information we collect from your child as a result of your use of the Services, such as your child’s device access times (e.g., we may collect information relating to how long your child uses or accesses his or her device to support our “allowance” feature), device identifier numbers, serial numbers, geolocation information, and other internet, device, or electronic network activity information, including, but not limited to, encrypted screenshots generated by your Mr Arthur Applications account and the transcribed content from the screenshots (e.g., through optical character recognition), as authorized by you (“Screenshots”). Screenshots may capture your children’s browsing activity, search activity, messaging activity, and other information regarding your child’s interaction with an internet website, application, advertisement, device, or interactions with a device in general. \n\nIn order to provide the Services, we may also collect from your child’s device information relating to which apps are installed on your child’s device and information relating to your child’s device permission status (e.g., if your child has disabled the usage permissions on his/her device required to provide the Services, that information may be collected or if the device can no longer be “seen”). We may also collect information from your child’s device about your child’s usage and activity in connection with the Services (e.g., error/crash reporting, usage analytics such as screen views, your child’s use of any hyperlinks available within the Services, time on page, and page hits). \n\nFor additional information about our practices regarding Children’s Personal Information, please see Section 5 (Children’s Privacy Rights) below. \n\nIn regard to the European Union, our collection of personal information from a child is limited and controlled by the parent. \n\n1.2. Non-Personal Information: Non-Personal Information means information that does not identify, and cannot reasonably be used to identify, an individual. We collect Non-Personal Information, for example, when we track the total number of visitors to the Site, the number of visitors to a particular page of the Site, and/or other such technical information. This data may be used to diagnose problems with the Services, gather demographic and geographic information to improve our Services or marketing efforts, improve our Services, and for similar purposes. Non-Personal Information includes aggregated and/or de-identified information. Mr Arthur reserves the right to use and disclose Non-Personal Information in its sole discretion." = "1.1. Personal Information: Mr Arthur collects “Personal Information” from you at various times and places on the Site and Mr Arthur applications. Personal Information means information relating to a particular individual, such as the individual’s name, postal address, email address, and telephone number. Personal Information also includes your “Children’s Personal Information,” as defined below in Section 1.1.1. \n\n1.1.1. Children’s Personal Information: With your consent, Mr Arthur may collect your “Children’s Personal Information.” Children’s Personal Information may include information you voluntarily submit to us such as your child’s first, middle and last name, date of birth, age, gender, and profile photo, or it may include information we collect from your child as a result of your use of the Services, such as your child’s device access times (e.g., we may collect information relating to how long your child uses or accesses his or her device to support our “allowance” feature), device identifier numbers, serial numbers, geolocation information, and other internet, device, or electronic network activity information, including, but not limited to, encrypted screenshots generated by your Mr Arthur Applications account and the transcribed content from the screenshots (e.g., through optical character recognition), as authorized by you (“Screenshots”). Screenshots may capture your children’s browsing activity, search activity, messaging activity, and other information regarding your child’s interaction with an internet website, application, advertisement, device, or interactions with a device in general. \n\nIn order to provide the Services, we may also collect from your child’s device information relating to which apps are installed on your child’s device and information relating to your child’s device permission status (e.g., if your child has disabled the usage permissions on his/her device required to provide the Services, that information may be collected or if the device can no longer be “seen”). We may also collect information from your child’s device about your child’s usage and activity in connection with the Services (e.g., error/crash reporting, usage analytics such as screen views, your child’s use of any hyperlinks available within the Services, time on page, and page hits). \n\nFor additional information about our practices regarding Children’s Personal Information, please see Section 5 (Children’s Privacy Rights) below. \n\nIn regard to the European Union, our collection of personal information from a child is limited and controlled by the parent. \n\n1.2. Non-Personal Information: Non-Personal Information means information that does not identify, and cannot reasonably be used to identify, an individual. We collect Non-Personal Information, for example, when we track the total number of visitors to the Site, the number of visitors to a particular page of the Site, and/or other such technical information. This data may be used to diagnose problems with the Services, gather demographic and geographic information to improve our Services or marketing efforts, improve our Services, and for similar purposes. Non-Personal Information includes aggregated and/or de-identified information. Mr Arthur reserves the right to use and disclose Non-Personal Information in its sole discretion.";
+
+"2. HOW WE COLLECT INFORMATION" = "2. HOW WE COLLECT INFORMATION";
+"2.1. Voluntarily Provided Information: Mr Arthur may collect Personal Information, including your Children’s Personal Information, whenever you voluntarily provide such information including, for example, when you conduct business with us, use our Services, request information or materials from us, create or update any Mr Arthur accounts, when you voluntarily send Screenshots, or when you communicate with us about questions or concerns. \n\nExamples of the type of information you may voluntarily provide include: \n\nYour first name, last name, email address, and any updates to that information thereafter; \n\nInformation relating to your child, such as your child’s name, age, birthdate, gender, and profile photo (see Section 1.1.1. (Children’s Personal Information) for more information); and \n\nIf you sign up for any of our paid Services, your credit card or debit card information (such as card type, last four digits of your card, and expiration date) and other financial data and transaction history that we need to process your payment and provide the paid Services. \n\n2.2 Services-Related Information: We may collect Personal Information, including your Children’s Personal Information, as a result of your use of the Services. This includes, for example: \n\nCustom word lists you create to allow the Services to flag specific words of interest to you and the number of times the words appear within screenshots; \n\nInformation you may provide to us relating to the desired preferences of the Services (e.g., determining the preferred units of measurement for geofencing notifications). \n\nSchedules you may create as part of the Services (e.g., to schedule device access for your child’s device and related screen time allowance information); and \n\nInformation relating to which apps are installed on your child’s device and information relating to your child’s device status/permission status (e.g., if your child has disabled the usage permissions on his/her device required to provide the Services, that information may be collected or if the device can no longer be “seen”) (see Section 1.1.1. (Children’s Personal Information) for more information). \n\n2.3. Information Obtained from Third Parties: In limited circumstances, we may collect your Personal Information from third parties. For example, the payment processors we work with generally provide us with information related to you, such as a unique token that enables you to make additional purchases using the information they’ve stored, including recurring payments if you authorize automatic renewals, and your card’s type, expiration date, and certain digits of your card number. We do not collect your Children’s Personal Information from third parties. \n\n2.4. Cookies and Similar Technologies: When you use the Services, we and certain third parties may use “cookies” and similar technologies like pixels, web beacons, and local storage (collectively, “Collection Technology“) \n\nto collect information. We do not use Collection Technology to collect Children’s Personal Information. \n\nFor example, when you use our Services, we may use Collection Technology to collect certain device information, such as: device operating system, device operating system version, IP addresses, access times, browser type and language, browser version, and device identifier numbers. We may also use Collection Technology to collect information about your usage and activity related to the Services (e.g., error/crash reporting, usage analytics, your use of any hyperlinks available within the Services, time on page, and page hits), and chat analytics when the chat feature is used. \n\nYou have the right to choose whether or not to accept cookies. However, they are an important part of how the Services work, so you should be aware that if you choose to refuse or remove cookies, it could affect the availability and functionality of the Services. Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. To do so, please follow the instructions provided by your browser. \n\nRemoving or rejecting browser cookies does not necessarily affect third-party flash cookies or other web trackers, which may be used by us or our partners in connection with the Sites. To delete or disable flash cookies, please visit this site for more information. For further information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, you can visit https://www.allaboutcookies.org/.\n\n2.5. Third-Party Analytics: We may use third-party analytics tools including, for example, Amplitude, to help us measure traffic and usage trends for the Services. These tools may collect your Personal Information, including Children’s Personal Information, sent by your devices or our Services that assists us in improving the Services. You can read Amplitude’s privacy policy, by visiting this link: https://amplitude.com/privacy" = "2.1. Voluntarily Provided Information: Mr Arthur may collect Personal Information, including your Children’s Personal Information, whenever you voluntarily provide such information including, for example, when you conduct business with us, use our Services, request information or materials from us, create or update any Mr Arthur accounts, when you voluntarily send Screenshots, or when you communicate with us about questions or concerns. \n\nExamples of the type of information you may voluntarily provide include: \n\nYour first name, last name, email address, and any updates to that information thereafter; \n\nInformation relating to your child, such as your child’s name, age, birthdate, gender, and profile photo (see Section 1.1.1. (Children’s Personal Information) for more information); and \n\nIf you sign up for any of our paid Services, your credit card or debit card information (such as card type, last four digits of your card, and expiration date) and other financial data and transaction history that we need to process your payment and provide the paid Services. \n\n2.2 Services-Related Information: We may collect Personal Information, including your Children’s Personal Information, as a result of your use of the Services. This includes, for example: \n\nCustom word lists you create to allow the Services to flag specific words of interest to you and the number of times the words appear within screenshots; \n\nInformation you may provide to us relating to the desired preferences of the Services (e.g., determining the preferred units of measurement for geofencing notifications). \n\nSchedules you may create as part of the Services (e.g., to schedule device access for your child’s device and related screen time allowance information); and \n\nInformation relating to which apps are installed on your child’s device and information relating to your child’s device status/permission status (e.g., if your child has disabled the usage permissions on his/her device required to provide the Services, that information may be collected or if the device can no longer be “seen”) (see Section 1.1.1. (Children’s Personal Information) for more information). \n\n2.3. Information Obtained from Third Parties: In limited circumstances, we may collect your Personal Information from third parties. For example, the payment processors we work with generally provide us with information related to you, such as a unique token that enables you to make additional purchases using the information they’ve stored, including recurring payments if you authorize automatic renewals, and your card’s type, expiration date, and certain digits of your card number. We do not collect your Children’s Personal Information from third parties. \n\n2.4. Cookies and Similar Technologies: When you use the Services, we and certain third parties may use “cookies” and similar technologies like pixels, web beacons, and local storage (collectively, “Collection Technology“) \n\nto collect information. We do not use Collection Technology to collect Children’s Personal Information. \n\nFor example, when you use our Services, we may use Collection Technology to collect certain device information, such as: device operating system, device operating system version, IP addresses, access times, browser type and language, browser version, and device identifier numbers. We may also use Collection Technology to collect information about your usage and activity related to the Services (e.g., error/crash reporting, usage analytics, your use of any hyperlinks available within the Services, time on page, and page hits), and chat analytics when the chat feature is used. \n\nYou have the right to choose whether or not to accept cookies. However, they are an important part of how the Services work, so you should be aware that if you choose to refuse or remove cookies, it could affect the availability and functionality of the Services. Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. To do so, please follow the instructions provided by your browser. \n\nRemoving or rejecting browser cookies does not necessarily affect third-party flash cookies or other web trackers, which may be used by us or our partners in connection with the Sites. To delete or disable flash cookies, please visit this site for more information. For further information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, you can visit https://www.allaboutcookies.org/.\n\n2.5. Third-Party Analytics: We may use third-party analytics tools including, for example, Amplitude, to help us measure traffic and usage trends for the Services. These tools may collect your Personal Information, including Children’s Personal Information, sent by your devices or our Services that assists us in improving the Services. You can read Amplitude’s privacy policy, by visiting this link: https://amplitude.com/privacy";
+
+"3. HOW WE USE THE PERSONAL INFORMATION WE COLLECT" = "3. HOW WE USE THE PERSONAL INFORMATION WE COLLECT";
+
+"Personal Information we collect may be used for the purposes listed below. Children’s Personal Information is used in accordance with Section 5.3 below. \n\n3.1. To provide, develop, maintain, operate, and improve our Services; \n\n3.2. To understand you and your preferences to enhance your experience and provide a more personalized Service; \n\n3.3. To process and fulfill a request or other transaction submitted by you, including, for example, to process payment transactions and to respond to your comments and questions and provide customer support; \n\n3.4. To communicate with you including, for example, to send you Services-related information (e.g., geofencing notifications), including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages; \n\n3.5. For our own marketing purposes. To this end, we may communicate with you about new contests, promotions, rewards, upcoming events, and other news about our Services and our selected partners; \n\n3.6. For our business operations (e.g., billing, auditing, reporting, and statistical analysis); \n\n3.7. To meet or comply with any applicable law, regulation, legal process, or other legal obligation; protect or prevent harm, fraud, or financial loss; or promote, detect, investigate and help prevent security, fraud or technical issues; and protect our legitimate business interests and legal rights; and \n\n3.8. In connection with corporation transactions, which refers to transfers of Personal Information in the event we sell or transfer, or are considering selling or transferring, all or a portion of our business or assets." = "Personal Information we collect may be used for the purposes listed below. Children’s Personal Information is used in accordance with Section 5.3 below. \n\n3.1. To provide, develop, maintain, operate, and improve our Services; \n\n3.2. To understand you and your preferences to enhance your experience and provide a more personalized Service; \n\n3.3. To process and fulfill a request or other transaction submitted by you, including, for example, to process payment transactions and to respond to your comments and questions and provide customer support; \n\n3.4. To communicate with you including, for example, to send you Services-related information (e.g., geofencing notifications), including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages; \n\n3.5. For our own marketing purposes. To this end, we may communicate with you about new contests, promotions, rewards, upcoming events, and other news about our Services and our selected partners; \n\n3.6. For our business operations (e.g., billing, auditing, reporting, and statistical analysis); \n\n3.7. To meet or comply with any applicable law, regulation, legal process, or other legal obligation; protect or prevent harm, fraud, or financial loss; or promote, detect, investigate and help prevent security, fraud or technical issues; and protect our legitimate business interests and legal rights; and \n\n3.8. In connection with corporation transactions, which refers to transfers of Personal Information in the event we sell or transfer, or are considering selling or transferring, all or a portion of our business or assets.";
+
+"4. DISCLOSURE OF YOUR INFORMATION TO THIRD PARTIES" = "4. DISCLOSURE OF YOUR INFORMATION TO THIRD PARTIES";
+"Mr Arthur may share your Personal Information to third parties as listed below. Disclosure of Children’s Personal Information shall occur in accordance with Section 5.4 below. \n\n4.1. With Your Consent: We may share your information, including Personal Information, with another company when you allow us to do so (i.e., when we have obtained your consent). \n\n4.2. Service Providers: We may share your information, including Personal Information, with third parties to assist in our business operations (e.g., to process payments, store data, deliver information, and perform other similar functions); administrative functions; marketing functions; and/or to provide the Mr Arthur Applications services you have requested (collectively, “Service Providers”). Service Providers are prohibited from using your Personal Information for purposes other than those requested by us or required by law. \n\n4.3. Major Transactions: We may share your information, including Personal Information, as part, of or in connection with, a merger, acquisition, assignment, as part of debt financing, the sale of company assets, or in any similar transaction, or to the extent as may be required in the unlikely event of insolvency bankruptcy, or a receivership. \n\n4.4. Professional Advisors: We may share information with our legal, financial, and other advisors in connection with the corporate transactions described above or in connection with the management of our business and operations. \n\n4.5. Disclosures Under Special Circumstances: We may share your information, including Personal Information, when we believe doing so may be appropriate, including but not limited to when it may be legally required, necessary to comply with laws, or in response to lawful requests or legal process. We may also share such information where we believe it may limit our liability in an actual or potential lawsuit, or where otherwise necessary to protect our rights, interests and/or property (including, without limitation, to enforce our agreements), or the rights, interests and/or property of our agents, independent contractors, customers, and others." = "Mr Arthur may share your Personal Information to third parties as listed below. Disclosure of Children’s Personal Information shall occur in accordance with Section 5.4 below. \n\n4.1. With Your Consent: We may share your information, including Personal Information, with another company when you allow us to do so (i.e., when we have obtained your consent). \n\n4.2. Service Providers: We may share your information, including Personal Information, with third parties to assist in our business operations (e.g., to process payments, store data, deliver information, and perform other similar functions); administrative functions; marketing functions; and/or to provide the Mr Arthur Applications services you have requested (collectively, “Service Providers”). Service Providers are prohibited from using your Personal Information for purposes other than those requested by us or required by law. \n\n4.3. Major Transactions: We may share your information, including Personal Information, as part, of or in connection with, a merger, acquisition, assignment, as part of debt financing, the sale of company assets, or in any similar transaction, or to the extent as may be required in the unlikely event of insolvency bankruptcy, or a receivership. \n\n4.4. Professional Advisors: We may share information with our legal, financial, and other advisors in connection with the corporate transactions described above or in connection with the management of our business and operations. \n\n4.5. Disclosures Under Special Circumstances: We may share your information, including Personal Information, when we believe doing so may be appropriate, including but not limited to when it may be legally required, necessary to comply with laws, or in response to lawful requests or legal process. We may also share such information where we believe it may limit our liability in an actual or potential lawsuit, or where otherwise necessary to protect our rights, interests and/or property (including, without limitation, to enforce our agreements), or the rights, interests and/or property of our agents, independent contractors, customers, and others.";
+
+"5. CHILDREN’S PRIVACY RIGHTS" = "5. CHILDREN’S PRIVACY RIGHTS";
+
+"Mr Arthur does not sell products or services to children. The Services are not intended for children to submit Personal Information to Mr Arthur without the consent of their legal guardians. In compliance with the Children’s Online Privacy Protection Act (“COPPA”), please see below: \n\n5.1. The types of Personal Information we collect from children are detailed above in Section 1.1.1 (Children’s Personal Information). \n\n5.2. How we collect information from children is detailed above in Section 2 (How We Collect Information). \n\n5.3. Mr Arthur uses Children’s Personal Information for the purposes listed below: \n\nProvide, develop, maintain, operate, and improve our Services, \n\nProcess and fulfill a request or other transaction submitted by you, including, for example, to respond to comments and questions and provide customer support; \n\nCommunicate with you including, for example, to send you Services-related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages; \n\nFor our business operations (e.g., auditing, reporting, and statistical analysis); \n\nTo meet or comply with any applicable law, regulation, legal process or other legal obligation; protect or prevent harm, fraud, or financial loss; or promote, detect, investigate and help prevent security, fraud or technical issues; and protect our legitimate business interests and legal rights; and \n\nFor corporation transactions, which refers to transfers of Personal Information in the event we sell or transfer, or are considering selling or transferring, all or a portion of our business or assets. \n\n5.4. We may share or disclose Children’s Personal Information in a limited number of instances, including the following: \n\nWe may share Children’s Personal Information with our Service Providers if necessary for them to perform a business, professional, or technology support function for us. Please see Appendix A for a list of Service Providers (i.e., third-party operators) who may collect Children’s Personal Information through the Services. Please contact us at the mailing address, email, or phone number listed in Section 15 (Contact Us) with questions about our, or our Service Providers’, privacy policies and practices. \n\nWe may disclose Children’s Personal Information if permitted or required by law, for example, in response to a court order or a subpoena. To the extent permitted by applicable law, we also may disclose personal information collected from children (i) in response to a law enforcement or public agency’s request; (ii) if we believe disclosure may prevent the instigation of a crime, facilitate an investigation related to public safety or protect the safety of a child; (iii) to protect the security or integrity of our Services; or (iv) enable us to take precautions against liability. \n\n5.5. We will not collect more information from your children than is reasonably necessary to provide the Services. \n\nIn accordance with COPPA, you may upon request, review the Children’s Personal Information we have collected from your child, such as name, address, telephone number, email address, and direct us to delete such information, and/or refuse us to allow any further collection or use of your Children’s Personal Information. To exercise your rights, please contact us by email at contact@mrarthur.io \n\nFor European Union data subjects, our collection of personal data from a child is limited and controlled by the parent." = "Mr Arthur does not sell products or services to children. The Services are not intended for children to submit Personal Information to Mr Arthur without the consent of their legal guardians. In compliance with the Children’s Online Privacy Protection Act (“COPPA”), please see below: \n\n5.1. The types of Personal Information we collect from children are detailed above in Section 1.1.1 (Children’s Personal Information). \n\n5.2. How we collect information from children is detailed above in Section 2 (How We Collect Information). \n\n5.3. Mr Arthur uses Children’s Personal Information for the purposes listed below: \n\nProvide, develop, maintain, operate, and improve our Services, \n\nProcess and fulfill a request or other transaction submitted by you, including, for example, to respond to comments and questions and provide customer support; \n\nCommunicate with you including, for example, to send you Services-related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages; \n\nFor our business operations (e.g., auditing, reporting, and statistical analysis); \n\nTo meet or comply with any applicable law, regulation, legal process or other legal obligation; protect or prevent harm, fraud, or financial loss; or promote, detect, investigate and help prevent security, fraud or technical issues; and protect our legitimate business interests and legal rights; and \n\nFor corporation transactions, which refers to transfers of Personal Information in the event we sell or transfer, or are considering selling or transferring, all or a portion of our business or assets. \n\n5.4. We may share or disclose Children’s Personal Information in a limited number of instances, including the following: \n\nWe may share Children’s Personal Information with our Service Providers if necessary for them to perform a business, professional, or technology support function for us. Please see Appendix A for a list of Service Providers (i.e., third-party operators) who may collect Children’s Personal Information through the Services. Please contact us at the mailing address, email, or phone number listed in Section 15 (Contact Us) with questions about our, or our Service Providers’, privacy policies and practices. \n\nWe may disclose Children’s Personal Information if permitted or required by law, for example, in response to a court order or a subpoena. To the extent permitted by applicable law, we also may disclose personal information collected from children (i) in response to a law enforcement or public agency’s request; (ii) if we believe disclosure may prevent the instigation of a crime, facilitate an investigation related to public safety or protect the safety of a child; (iii) to protect the security or integrity of our Services; or (iv) enable us to take precautions against liability. \n\n5.5. We will not collect more information from your children than is reasonably necessary to provide the Services. \n\nIn accordance with COPPA, you may upon request, review the Children’s Personal Information we have collected from your child, such as name, address, telephone number, email address, and direct us to delete such information, and/or refuse us to allow any further collection or use of your Children’s Personal Information. To exercise your rights, please contact us by email at contact@mrarthur.io \n\nFor European Union data subjects, our collection of personal data from a child is limited and controlled by the parent.";
+
+"6. SECURITY" = "6. SECURITY";
+
+"We maintain reasonable security procedures to protect the confidentiality, security, and integrity of the Personal Information we collect. Such practices include using technical controls to secure the information that we collect, as appropriate, including Secure Socket Layer (SSL) and password protections. \n\nMr Arthur cannot guarantee the security of the information on and sent from the Services. No transmission of data over the internet is guaranteed to be completely secure. It may be possible for third parties not under the control of Mr Arthur to intercept or access transmissions or private communications unlawfully. Neither Mr Arthur nor any of our service providers can ensure or warrant the security of any information you transmit to us over the internet. Any such transmission is done at your own risk." = "We maintain reasonable security procedures to protect the confidentiality, security, and integrity of the Personal Information we collect. Such practices include using technical controls to secure the information that we collect, as appropriate, including Secure Socket Layer (SSL) and password protections. \n\nMr Arthur cannot guarantee the security of the information on and sent from the Services. No transmission of data over the internet is guaranteed to be completely secure. It may be possible for third parties not under the control of Mr Arthur to intercept or access transmissions or private communications unlawfully. Neither Mr Arthur nor any of our service providers can ensure or warrant the security of any information you transmit to us over the internet. Any such transmission is done at your own risk.";
+
+"7. THIRD-PARTY WEBSITES" = "7. THIRD-PARTY WEBSITES";
+"The Services may contain third-party links or include third-party integrations. Through these links and integrations, you may be providing information (including Personal Information) directly to the third-party, us, or both. You acknowledge and agree that we are not responsible for how those third parties collect or use your information. The information we collect is covered by this privacy policy, and the information the third-party collects is subject to the third-party’s privacy practices. Privacy choices you have made on any third-party site or platform will not apply to our use of the information we have collected directly through our Services. You should review the privacy policies of every third-party service that you visit or see, including those third parties you interact with through our Services." = "The Services may contain third-party links or include third-party integrations. Through these links and integrations, you may be providing information (including Personal Information) directly to the third-party, us, or both. You acknowledge and agree that we are not responsible for how those third parties collect or use your information. The information we collect is covered by this privacy policy, and the information the third-party collects is subject to the third-party’s privacy practices. Privacy choices you have made on any third-party site or platform will not apply to our use of the information we have collected directly through our Services. You should review the privacy policies of every third-party service that you visit or see, including those third parties you interact with through our Services.";
+
+"8. CORRECTING YOUR PERSONAL INFORMATION" = "8. CORRECTING YOUR PERSONAL INFORMATION";
+"You may request to view and, if necessary, correct Personal Information we collect about you. To do so, please contact us by using one of the contact methods provided in Section 11 (Contact Us) below. Please include your full name, mailing address and phone number in all requests." = "You may request to view and, if necessary, correct Personal Information we collect about you. To do so, please contact us by using one of the contact methods provided in Section 11 (Contact Us) below. Please include your full name, mailing address and phone number in all requests.";
+
+"9. OPTING OUT OF PROMOTIONAL EMAILS" = "9. OPTING OUT OF PROMOTIONAL EMAILS";
+"We allow you to choose which forms of communication you receive from us. You may opt out of receiving promotional emails from us by following the instructions in those emails. If you opt out of receiving promotional emails, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations." = "We allow you to choose which forms of communication you receive from us. You may opt out of receiving promotional emails from us by following the instructions in those emails. If you opt out of receiving promotional emails, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.";
+
+"10. NOTICE TO CALIFORNIA RESIDENTS – YOUR CALIFORNIA PRIVACY RIGHTS" = "10. NOTICE TO CALIFORNIA RESIDENTS – YOUR CALIFORNIA PRIVACY RIGHTS";
+
+"10.1. Shine the Light: We do not sell, disclose, trade, or rent your Personal Information to third parties to market their own products or services. \n\n10.2. Do Not Track: Some Internet browsers may be configured to send “Do Not Track” signals to the online services that you visit. We currently do not respond to “Do Not Track” or similar signals. To find out more about “Do Not Track,” please visit https://www.allaboutdnt.com. \n\n10.3. California Consumer Privacy Act: The California Consumer Privacy Act (“CCPA”) affords California consumers certain rights over their Personal Information. Please see our California Privacy Notice for an outline of those rights and an explanation of how such rights may be exercised." = "10.1. Shine the Light: We do not sell, disclose, trade, or rent your Personal Information to third parties to market their own products or services. \n\n10.2. Do Not Track: Some Internet browsers may be configured to send “Do Not Track” signals to the online services that you visit. We currently do not respond to “Do Not Track” or similar signals. To find out more about “Do Not Track,” please visit https://www.allaboutdnt.com. \n\n10.3. California Consumer Privacy Act: The California Consumer Privacy Act (“CCPA”) affords California consumers certain rights over their Personal Information. Please see our California Privacy Notice for an outline of those rights and an explanation of how such rights may be exercised.";
+
+"11. NOTICE TO EUROPEAN UNION DATA SUBJECTS – GENERAL DATA PROTECTION REGULATION" = "11. NOTICE TO EUROPEAN UNION DATA SUBJECTS – GENERAL DATA PROTECTION REGULATION";
+"This Section 11 (Notice to European Union Data Subject – General Data Protection Regulation) applies specifically to European Union data subjects. For the purpose of this section, terms used but not defined shall have the meaning ascribed to them in the General Data Protection Regulation. \n\n11.1. Data Subject Rights: You have the following rights with respect to your Personal Information where and to the extent they apply to your particular processing: \n\nThe right to request a copy of your Personal Information which the Mr Arthur holds about you; \n\nThe right to request that Mr Arthur corrects any Personal Information if it is found to be inaccurate or out of date; \n\nThe right to request your Personal Information is erased where it is no longer necessary for Mr Arthur to retain such data; \n\nThe right to withdraw your consent to the processing of your Personal Information at any time; \n\nThe right to request that Mr Arthur provides you with your Personal Information and where possible, to transmit that data directly to another data controller (where applicable); \n\nThe right, where there is a dispute in relation to the accuracy or processing of your Personal Information, to request a restriction is placed on further processing; and \n\nThe right to lodge a complaint with a European Union Data Protection or Supervisory Authority. \n\n11.2. Exercise of Data Subject Rights: You may let us know of your desire to enforce any of the rights described in this Privacy Policy by sending an email to contact@mrarthur.io, and we will respond within the time required by applicable. Please note that we may ask you to verify your identity before taking further action on your request. Please also note that laws and contractual frameworks limit your exercise of these data rights; we welcome you to ask us questions any time, and we will answer them as described above. \n\n11.3. Right to Withdraw Consent to Processing: Where you have provided your consent to the processing of your Personal Information by Mr Arthur you may withdraw your consent at any time by sending a communication to Mr Arthur specifying which consent you are withdrawing. Please note that the withdrawal of your consent does not affect the lawfulness of any processing activities based on such consent before its withdrawal. Additionally, in some jurisdictions, applicable law may give you the right to limit the ways in which we use your Personal Information, in particular where: \n\nyou contest the accuracy of your Personal Information; \n\nthe processing is unlawful, and you oppose the erasure of your Personal Information; \n\nwe no longer need your Personal Information for the purposes of the processing, but you require the information for the establishment, exercise or defense of legal claims; or \n\nyou have objected to the processing and pending the verification whether the legitimate grounds of Mr Arthur overrides your own. \n\n11.4. Complaints to Supervisory Authorities: We invite you to let us know about any and all issues regarding our data processing activities or this Privacy Policy, and we will respond to you within 30 days of receipt of such notification. If you consider that our processing of your Personal Information infringes European Union data protection laws, in particular if you are an EU resident, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your habitual residence, your place of work, or the place of the alleged infringement. For example, in the United Kingdom this is the Information Commissioner’s Office, and in Ireland this is the Data Protection Commissioner." = "This Section 11 (Notice to European Union Data Subject – General Data Protection Regulation) applies specifically to European Union data subjects. For the purpose of this section, terms used but not defined shall have the meaning ascribed to them in the General Data Protection Regulation. \n\n11.1. Data Subject Rights: You have the following rights with respect to your Personal Information where and to the extent they apply to your particular processing: \n\nThe right to request a copy of your Personal Information which the Mr Arthur holds about you; \n\nThe right to request that Mr Arthur corrects any Personal Information if it is found to be inaccurate or out of date; \n\nThe right to request your Personal Information is erased where it is no longer necessary for Mr Arthur to retain such data; \n\nThe right to withdraw your consent to the processing of your Personal Information at any time; \n\nThe right to request that Mr Arthur provides you with your Personal Information and where possible, to transmit that data directly to another data controller (where applicable); \n\nThe right, where there is a dispute in relation to the accuracy or processing of your Personal Information, to request a restriction is placed on further processing; and \n\nThe right to lodge a complaint with a European Union Data Protection or Supervisory Authority. \n\n11.2. Exercise of Data Subject Rights: You may let us know of your desire to enforce any of the rights described in this Privacy Policy by sending an email to contact@mrarthur.io, and we will respond within the time required by applicable. Please note that we may ask you to verify your identity before taking further action on your request. Please also note that laws and contractual frameworks limit your exercise of these data rights; we welcome you to ask us questions any time, and we will answer them as described above. \n\n11.3. Right to Withdraw Consent to Processing: Where you have provided your consent to the processing of your Personal Information by Mr Arthur you may withdraw your consent at any time by sending a communication to Mr Arthur specifying which consent you are withdrawing. Please note that the withdrawal of your consent does not affect the lawfulness of any processing activities based on such consent before its withdrawal. Additionally, in some jurisdictions, applicable law may give you the right to limit the ways in which we use your Personal Information, in particular where: \n\nyou contest the accuracy of your Personal Information; \n\nthe processing is unlawful, and you oppose the erasure of your Personal Information; \n\nwe no longer need your Personal Information for the purposes of the processing, but you require the information for the establishment, exercise or defense of legal claims; or \n\nyou have objected to the processing and pending the verification whether the legitimate grounds of Mr Arthur overrides your own. \n\n11.4. Complaints to Supervisory Authorities: We invite you to let us know about any and all issues regarding our data processing activities or this Privacy Policy, and we will respond to you within 30 days of receipt of such notification. If you consider that our processing of your Personal Information infringes European Union data protection laws, in particular if you are an EU resident, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your habitual residence, your place of work, or the place of the alleged infringement. For example, in the United Kingdom this is the Information Commissioner’s Office, and in Ireland this is the Data Protection Commissioner.";
+
+"12. STORAGE AND TRANSFER OF YOUR PERSONAL INFORMATION" = "12. STORAGE AND TRANSFER OF YOUR PERSONAL INFORMATION";
+"The data that we collect from you will be processed and stored at a destination located in Europe. \n\nWe transfer data to destinations outside of the European Union as a necessary part of the performance of the Services, or with your consent, as applicable." = "The data that we collect from you will be processed and stored at a destination located in Europe. \n\nWe transfer data to destinations outside of the European Union as a necessary part of the performance of the Services, or with your consent, as applicable.";
+
+"13. RETENTION OF YOUR PERSONAL INFORMATION" = "13. RETENTION OF YOUR PERSONAL INFORMATION";
+"We keep your personal data to enable your continued use of the Services, for as long as it is required to fulfill the relevant purposes described in this Privacy Policy, as may be required by law such as for tax and accounting purposes, or as otherwise communicated to you." = "We keep your personal data to enable your continued use of the Services, for as long as it is required to fulfill the relevant purposes described in this Privacy Policy, as may be required by law such as for tax and accounting purposes, or as otherwise communicated to you.";
+
+"14. CHANGES TO PRIVACY POLICY" = "14. CHANGES TO PRIVACY POLICY";
+"We reserve the right to modify this Privacy Policy at any time. If we make material changes to this Privacy Policy, we will notify you by updating the date of this Privacy Policy and posting it on the Site. We may, and if required by law, will also provide notification of changes in another way that we believe is reasonably likely to reach you, such as via email (if you have an account where we have your contact information) or another manner through the Site. \n\nAny modifications to this Privacy Policy will be effective upon our posting the new terms and/or upon implementation of the new changes on the Sites (or as otherwise indicated at the time of posting). In all cases, your continued use of the Services after the posting of any modified Privacy Policy indicates your acceptance of the terms of the modified Privacy Policy. If you do not accept this Privacy Policy, you must discontinue use of the Services." = "We reserve the right to modify this Privacy Policy at any time. If we make material changes to this Privacy Policy, we will notify you by updating the date of this Privacy Policy and posting it on the Site. We may, and if required by law, will also provide notification of changes in another way that we believe is reasonably likely to reach you, such as via email (if you have an account where we have your contact information) or another manner through the Site. \n\nAny modifications to this Privacy Policy will be effective upon our posting the new terms and/or upon implementation of the new changes on the Sites (or as otherwise indicated at the time of posting). In all cases, your continued use of the Services after the posting of any modified Privacy Policy indicates your acceptance of the terms of the modified Privacy Policy. If you do not accept this Privacy Policy, you must discontinue use of the Services.";
+
+"15. CONTACT US" = "15. CONTACT US";
+"If you have any questions regarding this Privacy Policy, please contact us at contact@mrarthur.io or, by mail, to: Mr Arthur, Attn: Grégoire Thomas, 4 bis Rue Lamartine, 93310 Le Pré-Saint-Gervais Paris, France." = "If you have any questions regarding this Privacy Policy, please contact us at contact@mrarthur.io or, by mail, to: Mr Arthur, Attn: Grégoire Thomas, 4 bis Rue Lamartine, 93310 Le Pré-Saint-Gervais Paris, France.";
+
+
+"ATTD_SCANNER_SIGNIN_WITH" = "You’ll need to sign in with ";
+"ATTD_SCANNER_YOUR" = "YOUR ";
+"ATTD_SCANNER_ACC_EMAIL" = "account email.";
+
+//AttendeeDeviceView
+"Devices" = "Devices";
+"#ATTENDEE " = "#ATTENDEE ";
+
+//Subsciption View
+"Your subcription has expired or you haven't subscribed yet." = "Your subcription has expired or you haven't subscribed yet.";
+"Please subscribe and start helping your child NOW!" = "Please subscribe and start helping your child NOW!";
+"Your subcription has expired or you haven't subscribed yet. Please subscribe and start helping your child NOW!" = "Your subcription has expired or you haven't subscribed yet. Please subscribe and start helping your child NOW!";
+" DAILY GOAL" = " DAILY GOAL";
+"UNINSTALL THE APP" = "UNINSTALL THE APP";
+
+
+//Delete user
+"Do you really want to delete your account?" = "Do you really want to delete your account?";
+"DELETE_ACCOUNT" = "DELETE";
+
+//App tab sceen
+"Don't miss it!" = "Don't miss it!";
+"Educational apps" = "Educational apps";
+"Sorry!" = "Sorry!";
+"No apps available here." = "No apps available here.";
+"No media available here." = "No media available here.";
+
+//start screen
+"Optimize screen time, learn to play, monitor, protect from inappropriate content…" = "Optimize screen time, learn to play, monitor, protect from inappropriate content…";
+"ALREADY HAVE AN ACOUNT?" = "ALREADY HAVE AN ACOUNT?";
+"Your child will have to spend time on educational apps…" = "Your child will have to spend time on educational apps…";
+"…to unlock entertainment time on their device." = "…to unlock entertainment time on their device.";
+
+//Block Screen
+"YOUR SUBSCRIPTION ENDED" = "YOUR SUBSCRIPTION ENDED";
+//-OBS
+"Your child has made progress in setting goals with you and learning on engaging apps." = "Your child has made progress in setting goals with you and learning on engaging apps.";
+"To continue using our app," = "To continue using our app,";
+" please choose the paying plan that best fits your needs and budget." = " please choose the paying plan that best fits your needs and budget.";
+"Thank you for choosing us, we look forward to helping you and your children reach their goals." = "Thank you for choosing us, we look forward to helping you and your children reach their goals.";
+//-ATT
+"Congratulations, you've done a great job so far!" = "Congratulations, you've done a great job so far!";
+"To be able to continue your efforts and improve your knowledge, your parents must now take out a subscription." = "To be able to continue your efforts and improve your knowledge, your parents must now take out a subscription.";
+
+//MARK: For Assets
+"asset_splash_wallpaper" = "wallpaper_en_splash";
+"asset_onboard_step_1" = "ic_en_onboard_step_1";
+"asset_onboard_step_2" = "ic_en_onboard_step_2";
+"asset_onboard_step_3" = "ic_en_onboard_step_3";
