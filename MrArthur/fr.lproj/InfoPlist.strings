@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  MrArthur
+
+  Created by Nirav Patel on 17/01/23.
+  
+*/
+"NSUserTrackingUsageDescription" = "Nous utiliserons vos données pour vous offrir une expérience plus personnalisée et rendre notre application encore plus performante.";
